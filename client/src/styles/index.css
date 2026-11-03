@@ -1,0 +1,113 @@
+@import 'tailwindcss';
+
+/* ── Ballpark tokens: paper ground, ink, one full-strength color per card ── */
+:root {
+  --paper: #ece8df;
+  --paper-deep: #e2ddd1;
+  --paper-line: #d3cdbf;
+  --ink: #1b1a17;
+  --ink-soft: #57534a;
+  --ink-faint: #8a8579;
+  --white: #ffffff;
+  --brand: #17694a;
+  --hit: #17694a;
+  --miss: #c2361b;
+  --card-shadow: 0 30px 60px -28px rgba(40, 32, 16, 0.45), 0 2px 6px rgba(40, 32, 16, 0.08);
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-deep: var(--paper-deep);
+  --color-paper-line: var(--paper-line);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-faint: var(--ink-faint);
+  --color-brand: var(--brand);
+  --color-hit: var(--hit);
+  --color-miss: var(--miss);
+
+  --font-sans: 'Archivo Variable', 'Helvetica Neue', Arial, sans-serif;
+
+  --radius-card: 2rem;
+  --shadow-card: var(--card-shadow);
+}
+
+@layer base {
+  html {
+    background: var(--paper);
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100dvh;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-sans);
+    font-variation-settings: normal;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+    caret-color: currentColor;
+  }
+
+  ::selection {
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--ink);
+    outline-offset: 3px;
+  }
+
+  /* Focus inside a colored card is drawn in the card's text color. */
+  .on-card :focus-visible {
+    outline-color: currentColor;
+  }
+
+  a {
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 0.08em;
+  }
+
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--paper-line) transparent;
+  }
+}
+
+@layer utilities {
+  /* Letter-spaced, slightly expanded uppercase: pills and labels. */
+  .label-caps {
+    font-stretch: 112%;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+  .display {
+    font-weight: 850;
+    font-stretch: 96%;
+    letter-spacing: -0.03em;
+    line-height: 1.02;
+  }
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

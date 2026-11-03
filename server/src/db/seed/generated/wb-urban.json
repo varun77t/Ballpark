@@ -1,0 +1,3412 @@
+{
+ "pack": {
+  "slug": "wb-urban",
+  "name": "Countries: city dwellers"
+ },
+ "questions": [
+  {
+   "slug": "wb-urban-afg",
+   "category": "geography",
+   "text": "How many people in Afghanistan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 11373235,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Afghanistan’s urban population at about 11.4 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 43.8 million.",
+    "About 26% of people there live in urban areas.",
+    "43.8 million × 26% ≈ 11.4 million."
+   ],
+   "fact": "26% of Afghanistan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=AFG"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ago",
+   "category": "geography",
+   "text": "How many people in Angola live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 27898633,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Angola’s urban population at about 27.9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 39 million.",
+    "About 71% of people there live in urban areas.",
+    "39 million × 71% ≈ 27.9 million."
+   ],
+   "fact": "71% of Angola’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=AGO"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-alb",
+   "category": "geography",
+   "text": "How many people in Albania live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1383232,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Albania’s urban population at about 1.38 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.35 million.",
+    "About 59% of people there live in urban areas.",
+    "2.35 million × 59% ≈ 1.38 million."
+   ],
+   "fact": "59% of Albania’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ALB"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-are",
+   "category": "geography",
+   "text": "How many people in the United Arab Emirates live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 9896906,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the United Arab Emirates’s urban population at about 9.9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 11.5 million.",
+    "About 86% of people there live in urban areas.",
+    "11.5 million × 86% ≈ 9.9 million."
+   ],
+   "fact": "86% of the United Arab Emirates’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ARE"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-arg",
+   "category": "geography",
+   "text": "How many people in Argentina live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 42344629,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Argentina’s urban population at about 42.3 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 45.9 million.",
+    "About 92% of people there live in urban areas.",
+    "45.9 million × 92% ≈ 42.3 million."
+   ],
+   "fact": "92% of Argentina’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ARG"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-arm",
+   "category": "geography",
+   "text": "How many people in Armenia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2035021,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Armenia’s urban population at about 2.04 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.09 million.",
+    "About 66% of people there live in urban areas.",
+    "3.09 million × 66% ≈ 2.04 million."
+   ],
+   "fact": "66% of Armenia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ARM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-aus",
+   "category": "geography",
+   "text": "How many people in Australia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 24223159,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Australia’s urban population at about 24.2 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 27.6 million.",
+    "About 88% of people there live in urban areas.",
+    "27.6 million × 88% ≈ 24.2 million."
+   ],
+   "fact": "88% of Australia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=AUS"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-aut",
+   "category": "geography",
+   "text": "How many people in Austria live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6419491,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Austria’s urban population at about 6.42 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 9.21 million.",
+    "About 70% of people there live in urban areas.",
+    "9.21 million × 70% ≈ 6.42 million."
+   ],
+   "fact": "70% of Austria’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=AUT"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-aze",
+   "category": "geography",
+   "text": "How many people in Azerbaijan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6008542,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Azerbaijan’s urban population at about 6.01 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.2 million.",
+    "About 59% of people there live in urban areas.",
+    "10.2 million × 59% ≈ 6.01 million."
+   ],
+   "fact": "59% of Azerbaijan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=AZE"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bdi",
+   "category": "geography",
+   "text": "How many people in Burundi live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3696363,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Burundi’s urban population at about 3.7 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 14.4 million.",
+    "About 26% of people there live in urban areas.",
+    "14.4 million × 26% ≈ 3.7 million."
+   ],
+   "fact": "26% of Burundi’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BDI"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bel",
+   "category": "geography",
+   "text": "How many people in Belgium live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 10469671,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Belgium’s urban population at about 10.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 11.9 million.",
+    "About 88% of people there live in urban areas.",
+    "11.9 million × 88% ≈ 10.5 million."
+   ],
+   "fact": "88% of Belgium’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BEL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ben",
+   "category": "geography",
+   "text": "How many people in Benin live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 7905293,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Benin’s urban population at about 7.91 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 14.8 million.",
+    "About 53% of people there live in urban areas.",
+    "14.8 million × 53% ≈ 7.91 million."
+   ],
+   "fact": "53% of Benin’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BEN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bfa",
+   "category": "geography",
+   "text": "How many people in Burkina Faso live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6963003,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Burkina Faso’s urban population at about 6.96 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 24.1 million.",
+    "About 29% of people there live in urban areas.",
+    "24.1 million × 29% ≈ 6.96 million."
+   ],
+   "fact": "29% of Burkina Faso’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BFA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bgd",
+   "category": "geography",
+   "text": "How many people in Bangladesh live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 58397596,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Bangladesh’s urban population at about 58.4 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 176 million.",
+    "About 33% of people there live in urban areas.",
+    "176 million × 33% ≈ 58.4 million."
+   ],
+   "fact": "33% of Bangladesh’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BGD"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bgr",
+   "category": "geography",
+   "text": "How many people in Bulgaria live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4771757,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Bulgaria’s urban population at about 4.77 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 6.43 million.",
+    "About 74% of people there live in urban areas.",
+    "6.43 million × 74% ≈ 4.77 million."
+   ],
+   "fact": "74% of Bulgaria’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BGR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bih",
+   "category": "geography",
+   "text": "How many people in Bosnia and Herzegovina live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1654565,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Bosnia and Herzegovina’s urban population at about 1.65 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.14 million.",
+    "About 53% of people there live in urban areas.",
+    "3.14 million × 53% ≈ 1.65 million."
+   ],
+   "fact": "53% of Bosnia and Herzegovina’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BIH"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-blr",
+   "category": "geography",
+   "text": "How many people in Belarus live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 7222871,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Belarus’s urban population at about 7.22 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 9.09 million.",
+    "About 79% of people there live in urban areas.",
+    "9.09 million × 79% ≈ 7.22 million."
+   ],
+   "fact": "79% of Belarus’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BLR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bol",
+   "category": "geography",
+   "text": "How many people in Bolivia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 9003957,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Bolivia’s urban population at about 9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 12.6 million.",
+    "About 72% of people there live in urban areas.",
+    "12.6 million × 72% ≈ 9 million."
+   ],
+   "fact": "72% of Bolivia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BOL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bra",
+   "category": "geography",
+   "text": "How many people in Brazil live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 187652232,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Brazil’s urban population at about 188 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 213 million.",
+    "About 88% of people there live in urban areas.",
+    "213 million × 88% ≈ 188 million."
+   ],
+   "fact": "88% of Brazil’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BRA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-bwa",
+   "category": "geography",
+   "text": "How many people in Botswana live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1741115,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Botswana’s urban population at about 1.74 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.56 million.",
+    "About 68% of people there live in urban areas.",
+    "2.56 million × 68% ≈ 1.74 million."
+   ],
+   "fact": "68% of Botswana’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=BWA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-caf",
+   "category": "geography",
+   "text": "How many people in the Central African Republic live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2456344,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the Central African Republic’s urban population at about 2.46 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.51 million.",
+    "About 45% of people there live in urban areas.",
+    "5.51 million × 45% ≈ 2.46 million."
+   ],
+   "fact": "45% of the Central African Republic’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CAF"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-can",
+   "category": "geography",
+   "text": "How many people in Canada live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 34519100,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Canada’s urban population at about 34.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 41.7 million.",
+    "About 83% of people there live in urban areas.",
+    "41.7 million × 83% ≈ 34.5 million."
+   ],
+   "fact": "83% of Canada’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CAN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-che",
+   "category": "geography",
+   "text": "How many people in Switzerland live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 7794692,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Switzerland’s urban population at about 7.79 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 9.09 million.",
+    "About 86% of people there live in urban areas.",
+    "9.09 million × 86% ≈ 7.79 million."
+   ],
+   "fact": "86% of Switzerland’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CHE"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-chl",
+   "category": "geography",
+   "text": "How many people in Chile live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 17710538,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Chile’s urban population at about 17.7 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 19.9 million.",
+    "About 89% of people there live in urban areas.",
+    "19.9 million × 89% ≈ 17.7 million."
+   ],
+   "fact": "89% of Chile’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CHL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-chn",
+   "category": "geography",
+   "text": "How many people in China live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 933170560,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put China’s urban population at about 933 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 1.41 billion.",
+    "About 66% of people there live in urban areas.",
+    "1.41 billion × 66% ≈ 933 million."
+   ],
+   "fact": "66% of China’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CHN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-civ",
+   "category": "geography",
+   "text": "How many people in Côte d’Ivoire live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 17843805,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Côte d’Ivoire’s urban population at about 17.8 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 32.7 million.",
+    "About 55% of people there live in urban areas.",
+    "32.7 million × 55% ≈ 17.8 million."
+   ],
+   "fact": "55% of Côte d’Ivoire’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CIV"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-cmr",
+   "category": "geography",
+   "text": "How many people in Cameroon live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 16633589,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Cameroon’s urban population at about 16.6 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 29.9 million.",
+    "About 56% of people there live in urban areas.",
+    "29.9 million × 56% ≈ 16.6 million."
+   ],
+   "fact": "56% of Cameroon’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CMR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-cod",
+   "category": "geography",
+   "text": "How many people in the Democratic Republic of the Congo live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 50902749,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the Democratic Republic of the Congo’s urban population at about 50.9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 113 million.",
+    "About 45% of people there live in urban areas.",
+    "113 million × 45% ≈ 50.9 million."
+   ],
+   "fact": "45% of the Democratic Republic of the Congo’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=COD"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-cog",
+   "category": "geography",
+   "text": "How many people in the Republic of the Congo live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4158058,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the Republic of the Congo’s urban population at about 4.16 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 6.48 million.",
+    "About 64% of people there live in urban areas.",
+    "6.48 million × 64% ≈ 4.16 million."
+   ],
+   "fact": "64% of the Republic of the Congo’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=COG"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-col",
+   "category": "geography",
+   "text": "How many people in Colombia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 42090207,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Colombia’s urban population at about 42.1 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 53.4 million.",
+    "About 79% of people there live in urban areas.",
+    "53.4 million × 79% ≈ 42.1 million."
+   ],
+   "fact": "79% of Colombia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=COL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-cri",
+   "category": "geography",
+   "text": "How many people in Costa Rica live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4108283,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Costa Rica’s urban population at about 4.11 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.15 million.",
+    "About 80% of people there live in urban areas.",
+    "5.15 million × 80% ≈ 4.11 million."
+   ],
+   "fact": "80% of Costa Rica’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CRI"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-cub",
+   "category": "geography",
+   "text": "How many people in Cuba live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 8446482,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Cuba’s urban population at about 8.45 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.9 million.",
+    "About 77% of people there live in urban areas.",
+    "10.9 million × 77% ≈ 8.45 million."
+   ],
+   "fact": "77% of Cuba’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CUB"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-cze",
+   "category": "geography",
+   "text": "How many people in Czechia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 7933860,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Czechia’s urban population at about 7.93 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.9 million.",
+    "About 73% of people there live in urban areas.",
+    "10.9 million × 73% ≈ 7.93 million."
+   ],
+   "fact": "73% of Czechia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=CZE"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-deu",
+   "category": "geography",
+   "text": "How many people in Germany live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 68578227,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Germany’s urban population at about 68.6 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 83.5 million.",
+    "About 82% of people there live in urban areas.",
+    "83.5 million × 82% ≈ 68.6 million."
+   ],
+   "fact": "82% of Germany’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=DEU"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-dnk",
+   "category": "geography",
+   "text": "How many people in Denmark live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 5338897,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Denmark’s urban population at about 5.34 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 6.01 million.",
+    "About 89% of people there live in urban areas.",
+    "6.01 million × 89% ≈ 5.34 million."
+   ],
+   "fact": "89% of Denmark’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=DNK"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-dom",
+   "category": "geography",
+   "text": "How many people in the Dominican Republic live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 8354392,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the Dominican Republic’s urban population at about 8.35 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 11.5 million.",
+    "About 73% of people there live in urban areas.",
+    "11.5 million × 73% ≈ 8.35 million."
+   ],
+   "fact": "73% of the Dominican Republic’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=DOM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-dza",
+   "category": "geography",
+   "text": "How many people in Algeria live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 35964854,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Algeria’s urban population at about 36 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 47.4 million.",
+    "About 76% of people there live in urban areas.",
+    "47.4 million × 76% ≈ 36 million."
+   ],
+   "fact": "76% of Algeria’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=DZA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ecu",
+   "category": "geography",
+   "text": "How many people in Ecuador live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 11594298,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Ecuador’s urban population at about 11.6 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 18.3 million.",
+    "About 63% of people there live in urban areas.",
+    "18.3 million × 63% ≈ 11.6 million."
+   ],
+   "fact": "63% of Ecuador’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ECU"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-egy",
+   "category": "geography",
+   "text": "How many people in Egypt live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 50784126,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Egypt’s urban population at about 50.8 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 118 million.",
+    "About 43% of people there live in urban areas.",
+    "118 million × 43% ≈ 50.8 million."
+   ],
+   "fact": "43% of Egypt’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=EGY"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-eri",
+   "category": "geography",
+   "text": "How many people in Eritrea live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1245875,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Eritrea’s urban population at about 1.25 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.61 million.",
+    "About 35% of people there live in urban areas.",
+    "3.61 million × 35% ≈ 1.25 million."
+   ],
+   "fact": "35% of Eritrea’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ERI"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-esp",
+   "category": "geography",
+   "text": "How many people in Spain live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 39738256,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Spain’s urban population at about 39.7 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 49.4 million.",
+    "About 81% of people there live in urban areas.",
+    "49.4 million × 81% ≈ 39.7 million."
+   ],
+   "fact": "81% of Spain’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ESP"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-eth",
+   "category": "geography",
+   "text": "How many people in Ethiopia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 32661899,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Ethiopia’s urban population at about 32.7 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 135 million.",
+    "About 24% of people there live in urban areas.",
+    "135 million × 24% ≈ 32.7 million."
+   ],
+   "fact": "24% of Ethiopia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ETH"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-fin",
+   "category": "geography",
+   "text": "How many people in Finland live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4207994,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Finland’s urban population at about 4.21 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.65 million.",
+    "About 75% of people there live in urban areas.",
+    "5.65 million × 75% ≈ 4.21 million."
+   ],
+   "fact": "75% of Finland’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=FIN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-fra",
+   "category": "geography",
+   "text": "How many people in France live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 54182526,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put France’s urban population at about 54.2 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 68.7 million.",
+    "About 79% of people there live in urban areas.",
+    "68.7 million × 79% ≈ 54.2 million."
+   ],
+   "fact": "79% of France’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=FRA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-gab",
+   "category": "geography",
+   "text": "How many people in Gabon live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2387953,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Gabon’s urban population at about 2.39 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.59 million.",
+    "About 92% of people there live in urban areas.",
+    "2.59 million × 92% ≈ 2.39 million."
+   ],
+   "fact": "92% of Gabon’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GAB"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-gbr",
+   "category": "geography",
+   "text": "How many people in the United Kingdom live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 57899076,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the United Kingdom’s urban population at about 57.9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 69.5 million.",
+    "About 83% of people there live in urban areas.",
+    "69.5 million × 83% ≈ 57.9 million."
+   ],
+   "fact": "83% of the United Kingdom’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GBR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-geo",
+   "category": "geography",
+   "text": "How many people in Georgia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2407828,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Georgia’s urban population at about 2.41 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.94 million.",
+    "About 61% of people there live in urban areas.",
+    "3.94 million × 61% ≈ 2.41 million."
+   ],
+   "fact": "61% of Georgia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GEO"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-gha",
+   "category": "geography",
+   "text": "How many people in Ghana live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 20661512,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Ghana’s urban population at about 20.7 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 35.1 million.",
+    "About 59% of people there live in urban areas.",
+    "35.1 million × 59% ≈ 20.7 million."
+   ],
+   "fact": "59% of Ghana’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GHA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-gin",
+   "category": "geography",
+   "text": "How many people in Guinea live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 5815891,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Guinea’s urban population at about 5.82 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 15.1 million.",
+    "About 39% of people there live in urban areas.",
+    "15.1 million × 39% ≈ 5.82 million."
+   ],
+   "fact": "39% of Guinea’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GIN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-gmb",
+   "category": "geography",
+   "text": "How many people in The Gambia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1834036,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put The Gambia’s urban population at about 1.83 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.82 million.",
+    "About 65% of people there live in urban areas.",
+    "2.82 million × 65% ≈ 1.83 million."
+   ],
+   "fact": "65% of The Gambia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GMB"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-gnb",
+   "category": "geography",
+   "text": "How many people in Guinea-Bissau live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1049422,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Guinea-Bissau’s urban population at about 1.05 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.25 million.",
+    "About 47% of people there live in urban areas.",
+    "2.25 million × 47% ≈ 1.05 million."
+   ],
+   "fact": "47% of Guinea-Bissau’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GNB"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-grc",
+   "category": "geography",
+   "text": "How many people in Greece live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 8250421,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Greece’s urban population at about 8.25 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.4 million.",
+    "About 79% of people there live in urban areas.",
+    "10.4 million × 79% ≈ 8.25 million."
+   ],
+   "fact": "79% of Greece’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GRC"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-gtm",
+   "category": "geography",
+   "text": "How many people in Guatemala live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 10520754,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Guatemala’s urban population at about 10.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 18.7 million.",
+    "About 56% of people there live in urban areas.",
+    "18.7 million × 56% ≈ 10.5 million."
+   ],
+   "fact": "56% of Guatemala’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=GTM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-hkg",
+   "category": "geography",
+   "text": "How many people in Hong Kong live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 7498900,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Hong Kong’s urban population at about 7.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 7.5 million.",
+    "About 100% of people there live in urban areas.",
+    "7.5 million × 100% ≈ 7.5 million."
+   ],
+   "fact": "100% of Hong Kong’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=HKG"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-hnd",
+   "category": "geography",
+   "text": "How many people in Honduras live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6521154,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Honduras’s urban population at about 6.52 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 11 million.",
+    "About 59% of people there live in urban areas.",
+    "11 million × 59% ≈ 6.52 million."
+   ],
+   "fact": "59% of Honduras’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=HND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-hrv",
+   "category": "geography",
+   "text": "How many people in Croatia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2241004,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Croatia’s urban population at about 2.24 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.88 million.",
+    "About 58% of people there live in urban areas.",
+    "3.88 million × 58% ≈ 2.24 million."
+   ],
+   "fact": "58% of Croatia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=HRV"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-hti",
+   "category": "geography",
+   "text": "How many people in Haiti live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6621561,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Haiti’s urban population at about 6.62 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 11.9 million.",
+    "About 56% of people there live in urban areas.",
+    "11.9 million × 56% ≈ 6.62 million."
+   ],
+   "fact": "56% of Haiti’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=HTI"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-hun",
+   "category": "geography",
+   "text": "How many people in Hungary live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6725974,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Hungary’s urban population at about 6.73 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 9.51 million.",
+    "About 71% of people there live in urban areas.",
+    "9.51 million × 71% ≈ 6.73 million."
+   ],
+   "fact": "71% of Hungary’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=HUN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-idn",
+   "category": "geography",
+   "text": "How many people in Indonesia live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 169698146,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Indonesia’s urban population at about 170 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 286 million.",
+    "About 59% of people there live in urban areas.",
+    "286 million × 59% ≈ 170 million."
+   ],
+   "fact": "59% of Indonesia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=IDN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ind",
+   "category": "india",
+   "text": "How many people in India live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 522441248,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put India’s urban population at about 522 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 1.46 billion.",
+    "About 36% of people there live in urban areas.",
+    "1.46 billion × 36% ≈ 522 million."
+   ],
+   "fact": "36% of India’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-irl",
+   "category": "geography",
+   "text": "How many people in Ireland live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3542220,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Ireland’s urban population at about 3.54 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.48 million.",
+    "About 65% of people there live in urban areas.",
+    "5.48 million × 65% ≈ 3.54 million."
+   ],
+   "fact": "65% of Ireland’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=IRL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-irn",
+   "category": "geography",
+   "text": "How many people in Iran live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 71509246,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Iran’s urban population at about 71.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 92.4 million.",
+    "About 77% of people there live in urban areas.",
+    "92.4 million × 77% ≈ 71.5 million."
+   ],
+   "fact": "77% of Iran’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=IRN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-irq",
+   "category": "geography",
+   "text": "How many people in Iraq live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 32886176,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Iraq’s urban population at about 32.9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 47 million.",
+    "About 70% of people there live in urban areas.",
+    "47 million × 70% ≈ 32.9 million."
+   ],
+   "fact": "70% of Iraq’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=IRQ"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-isr",
+   "category": "geography",
+   "text": "How many people in Israel live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 9270289,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Israel’s urban population at about 9.27 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.1 million.",
+    "About 92% of people there live in urban areas.",
+    "10.1 million × 92% ≈ 9.27 million."
+   ],
+   "fact": "92% of Israel’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ISR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ita",
+   "category": "geography",
+   "text": "How many people in Italy live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 41052937,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Italy’s urban population at about 41.1 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 58.9 million.",
+    "About 70% of people there live in urban areas.",
+    "58.9 million × 70% ≈ 41.1 million."
+   ],
+   "fact": "70% of Italy’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ITA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-jam",
+   "category": "geography",
+   "text": "How many people in Jamaica live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1685945,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Jamaica’s urban population at about 1.69 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.84 million.",
+    "About 59% of people there live in urban areas.",
+    "2.84 million × 59% ≈ 1.69 million."
+   ],
+   "fact": "59% of Jamaica’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=JAM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-jor",
+   "category": "geography",
+   "text": "How many people in Jordan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 10738258,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Jordan’s urban population at about 10.7 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 11.5 million.",
+    "About 93% of people there live in urban areas.",
+    "11.5 million × 93% ≈ 10.7 million."
+   ],
+   "fact": "93% of Jordan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=JOR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-jpn",
+   "category": "geography",
+   "text": "How many people in Japan live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 113867674,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Japan’s urban population at about 114 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 123 million.",
+    "About 92% of people there live in urban areas.",
+    "123 million × 92% ≈ 114 million."
+   ],
+   "fact": "92% of Japan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=JPN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-kaz",
+   "category": "geography",
+   "text": "How many people in Kazakhstan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 13003492,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Kazakhstan’s urban population at about 13 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 20.8 million.",
+    "About 62% of people there live in urban areas.",
+    "20.8 million × 62% ≈ 13 million."
+   ],
+   "fact": "62% of Kazakhstan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=KAZ"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ken",
+   "category": "geography",
+   "text": "How many people in Kenya live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 18532435,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Kenya’s urban population at about 18.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 57.5 million.",
+    "About 32% of people there live in urban areas.",
+    "57.5 million × 32% ≈ 18.5 million."
+   ],
+   "fact": "32% of Kenya’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=KEN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-kgz",
+   "category": "geography",
+   "text": "How many people in Kyrgyzstan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2551447,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Kyrgyzstan’s urban population at about 2.55 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 7.34 million.",
+    "About 35% of people there live in urban areas.",
+    "7.34 million × 35% ≈ 2.55 million."
+   ],
+   "fact": "35% of Kyrgyzstan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=KGZ"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-khm",
+   "category": "geography",
+   "text": "How many people in Cambodia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 7336524,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Cambodia’s urban population at about 7.34 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 17.8 million.",
+    "About 41% of people there live in urban areas.",
+    "17.8 million × 41% ≈ 7.34 million."
+   ],
+   "fact": "41% of Cambodia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=KHM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-kor",
+   "category": "geography",
+   "text": "How many people in South Korea live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 41954442,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put South Korea’s urban population at about 42 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 51.7 million.",
+    "About 81% of people there live in urban areas.",
+    "51.7 million × 81% ≈ 42 million."
+   ],
+   "fact": "81% of South Korea’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=KOR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-kwt",
+   "category": "geography",
+   "text": "How many people in Kuwait live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4865298,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Kuwait’s urban population at about 4.87 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 4.87 million.",
+    "About 100% of people there live in urban areas.",
+    "4.87 million × 100% ≈ 4.87 million."
+   ],
+   "fact": "100% of Kuwait’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=KWT"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-lao",
+   "category": "geography",
+   "text": "How many people in Laos live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3173860,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Laos’s urban population at about 3.17 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 7.87 million.",
+    "About 40% of people there live in urban areas.",
+    "7.87 million × 40% ≈ 3.17 million."
+   ],
+   "fact": "40% of Laos’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=LAO"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-lbn",
+   "category": "geography",
+   "text": "How many people in Lebanon live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 5320647,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Lebanon’s urban population at about 5.32 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.85 million.",
+    "About 91% of people there live in urban areas.",
+    "5.85 million × 91% ≈ 5.32 million."
+   ],
+   "fact": "91% of Lebanon’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=LBN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-lbr",
+   "category": "geography",
+   "text": "How many people in Liberia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3214173,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Liberia’s urban population at about 3.21 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.73 million.",
+    "About 56% of people there live in urban areas.",
+    "5.73 million × 56% ≈ 3.21 million."
+   ],
+   "fact": "56% of Liberia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=LBR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-lby",
+   "category": "geography",
+   "text": "How many people in Libya live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6556908,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Libya’s urban population at about 6.56 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 7.46 million.",
+    "About 88% of people there live in urban areas.",
+    "7.46 million × 88% ≈ 6.56 million."
+   ],
+   "fact": "88% of Libya’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=LBY"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-lka",
+   "category": "geography",
+   "text": "How many people in Sri Lanka live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4449131,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Sri Lanka’s urban population at about 4.45 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 21.8 million.",
+    "About 20% of people there live in urban areas.",
+    "21.8 million × 20% ≈ 4.45 million."
+   ],
+   "fact": "20% of Sri Lanka’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=LKA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-lso",
+   "category": "geography",
+   "text": "How many people in Lesotho live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1055687,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Lesotho’s urban population at about 1.06 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.36 million.",
+    "About 45% of people there live in urban areas.",
+    "2.36 million × 45% ≈ 1.06 million."
+   ],
+   "fact": "45% of Lesotho’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=LSO"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ltu",
+   "category": "geography",
+   "text": "How many people in Lithuania live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1995612,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Lithuania’s urban population at about 2 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.89 million.",
+    "About 69% of people there live in urban areas.",
+    "2.89 million × 69% ≈ 2 million."
+   ],
+   "fact": "69% of Lithuania’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=LTU"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mar",
+   "category": "geography",
+   "text": "How many people in Morocco live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 24260523,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Morocco’s urban population at about 24.3 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 38.4 million.",
+    "About 63% of people there live in urban areas.",
+    "38.4 million × 63% ≈ 24.3 million."
+   ],
+   "fact": "63% of Morocco’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MAR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mda",
+   "category": "geography",
+   "text": "How many people in Moldova live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1032344,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Moldova’s urban population at about 1.03 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.36 million.",
+    "About 44% of people there live in urban areas.",
+    "2.36 million × 44% ≈ 1.03 million."
+   ],
+   "fact": "44% of Moldova’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MDA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mdg",
+   "category": "geography",
+   "text": "How many people in Madagascar live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 10772242,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Madagascar’s urban population at about 10.8 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 32.7 million.",
+    "About 33% of people there live in urban areas.",
+    "32.7 million × 33% ≈ 10.8 million."
+   ],
+   "fact": "33% of Madagascar’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MDG"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mex",
+   "category": "geography",
+   "text": "How many people in Mexico live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 105611477,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Mexico’s urban population at about 106 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 132 million.",
+    "About 80% of people there live in urban areas.",
+    "132 million × 80% ≈ 106 million."
+   ],
+   "fact": "80% of Mexico’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MEX"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mli",
+   "category": "geography",
+   "text": "How many people in Mali live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 8117224,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Mali’s urban population at about 8.12 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 25.2 million.",
+    "About 32% of people there live in urban areas.",
+    "25.2 million × 32% ≈ 8.12 million."
+   ],
+   "fact": "32% of Mali’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MLI"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mmr",
+   "category": "geography",
+   "text": "How many people in Myanmar live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 16775353,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Myanmar’s urban population at about 16.8 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 54.9 million.",
+    "About 31% of people there live in urban areas.",
+    "54.9 million × 31% ≈ 16.8 million."
+   ],
+   "fact": "31% of Myanmar’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MMR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mng",
+   "category": "geography",
+   "text": "How many people in Mongolia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2539152,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Mongolia’s urban population at about 2.54 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.57 million.",
+    "About 71% of people there live in urban areas.",
+    "3.57 million × 71% ≈ 2.54 million."
+   ],
+   "fact": "71% of Mongolia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MNG"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-moz",
+   "category": "geography",
+   "text": "How many people in Mozambique live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 13257752,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Mozambique’s urban population at about 13.3 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 35.6 million.",
+    "About 37% of people there live in urban areas.",
+    "35.6 million × 37% ≈ 13.3 million."
+   ],
+   "fact": "37% of Mozambique’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MOZ"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mrt",
+   "category": "geography",
+   "text": "How many people in Mauritania live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3268171,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Mauritania’s urban population at about 3.27 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.32 million.",
+    "About 61% of people there live in urban areas.",
+    "5.32 million × 61% ≈ 3.27 million."
+   ],
+   "fact": "61% of Mauritania’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MRT"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mwi",
+   "category": "geography",
+   "text": "How many people in Malawi live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3908923,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Malawi’s urban population at about 3.91 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 22.2 million.",
+    "About 18% of people there live in urban areas.",
+    "22.2 million × 18% ≈ 3.91 million."
+   ],
+   "fact": "18% of Malawi’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MWI"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-mys",
+   "category": "geography",
+   "text": "How many people in Malaysia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 27845005,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Malaysia’s urban population at about 27.8 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 36 million.",
+    "About 77% of people there live in urban areas.",
+    "36 million × 77% ≈ 27.8 million."
+   ],
+   "fact": "77% of Malaysia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=MYS"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-nam",
+   "category": "geography",
+   "text": "How many people in Namibia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1573213,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Namibia’s urban population at about 1.57 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.09 million.",
+    "About 51% of people there live in urban areas.",
+    "3.09 million × 51% ≈ 1.57 million."
+   ],
+   "fact": "51% of Namibia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=NAM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ner",
+   "category": "geography",
+   "text": "How many people in Niger live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 5129642,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Niger’s urban population at about 5.13 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 27.9 million.",
+    "About 18% of people there live in urban areas.",
+    "27.9 million × 18% ≈ 5.13 million."
+   ],
+   "fact": "18% of Niger’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=NER"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-nga",
+   "category": "geography",
+   "text": "How many people in Nigeria live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 151484336,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Nigeria’s urban population at about 151 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 238 million.",
+    "About 64% of people there live in urban areas.",
+    "238 million × 64% ≈ 151 million."
+   ],
+   "fact": "64% of Nigeria’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=NGA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-nic",
+   "category": "geography",
+   "text": "How many people in Nicaragua live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4165511,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Nicaragua’s urban population at about 4.17 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 7.01 million.",
+    "About 59% of people there live in urban areas.",
+    "7.01 million × 59% ≈ 4.17 million."
+   ],
+   "fact": "59% of Nicaragua’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=NIC"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-nld",
+   "category": "geography",
+   "text": "How many people in the Netherlands live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 17353020,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the Netherlands’s urban population at about 17.4 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 18.1 million.",
+    "About 96% of people there live in urban areas.",
+    "18.1 million × 96% ≈ 17.4 million."
+   ],
+   "fact": "96% of the Netherlands’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=NLD"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-nor",
+   "category": "geography",
+   "text": "How many people in Norway live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4689037,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Norway’s urban population at about 4.69 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.61 million.",
+    "About 84% of people there live in urban areas.",
+    "5.61 million × 84% ≈ 4.69 million."
+   ],
+   "fact": "84% of Norway’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=NOR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-npl",
+   "category": "geography",
+   "text": "How many people in Nepal live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 19843969,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Nepal’s urban population at about 19.8 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 29.6 million.",
+    "About 67% of people there live in urban areas.",
+    "29.6 million × 67% ≈ 19.8 million."
+   ],
+   "fact": "67% of Nepal’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=NPL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-nzl",
+   "category": "geography",
+   "text": "How many people in New Zealand live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4472634,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put New Zealand’s urban population at about 4.47 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.32 million.",
+    "About 84% of people there live in urban areas.",
+    "5.32 million × 84% ≈ 4.47 million."
+   ],
+   "fact": "84% of New Zealand’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=NZL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-omn",
+   "category": "geography",
+   "text": "How many people in Oman live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4367078,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Oman’s urban population at about 4.37 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.49 million.",
+    "About 79% of people there live in urban areas.",
+    "5.49 million × 79% ≈ 4.37 million."
+   ],
+   "fact": "79% of Oman’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=OMN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-pak",
+   "category": "geography",
+   "text": "How many people in Pakistan live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 100877063,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Pakistan’s urban population at about 101 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 255 million.",
+    "About 40% of people there live in urban areas.",
+    "255 million × 40% ≈ 101 million."
+   ],
+   "fact": "40% of Pakistan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PAK"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-pan",
+   "category": "geography",
+   "text": "How many people in Panama live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3023846,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Panama’s urban population at about 3.02 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 4.57 million.",
+    "About 66% of people there live in urban areas.",
+    "4.57 million × 66% ≈ 3.02 million."
+   ],
+   "fact": "66% of Panama’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PAN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-per",
+   "category": "geography",
+   "text": "How many people in Peru live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 29596363,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Peru’s urban population at about 29.6 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 34.6 million.",
+    "About 86% of people there live in urban areas.",
+    "34.6 million × 86% ≈ 29.6 million."
+   ],
+   "fact": "86% of Peru’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PER"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-phl",
+   "category": "geography",
+   "text": "How many people in the Philippines live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 65135932,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the Philippines’s urban population at about 65.1 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 117 million.",
+    "About 56% of people there live in urban areas.",
+    "117 million × 56% ≈ 65.1 million."
+   ],
+   "fact": "56% of the Philippines’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PHL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-png",
+   "category": "geography",
+   "text": "How many people in Papua New Guinea live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1698345,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Papua New Guinea’s urban population at about 1.7 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.8 million.",
+    "About 16% of people there live in urban areas.",
+    "10.8 million × 16% ≈ 1.7 million."
+   ],
+   "fact": "16% of Papua New Guinea’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PNG"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-pol",
+   "category": "geography",
+   "text": "How many people in Poland live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 21892608,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Poland’s urban population at about 21.9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 36.4 million.",
+    "About 60% of people there live in urban areas.",
+    "36.4 million × 60% ≈ 21.9 million."
+   ],
+   "fact": "60% of Poland’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=POL"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-pri",
+   "category": "geography",
+   "text": "How many people in Puerto Rico (US) live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3004589,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Puerto Rico (US)’s urban population at about 3 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.18 million.",
+    "About 94% of people there live in urban areas.",
+    "3.18 million × 94% ≈ 3 million."
+   ],
+   "fact": "94% of Puerto Rico (US)’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PRI"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-prk",
+   "category": "geography",
+   "text": "How many people in North Korea live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 17055891,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put North Korea’s urban population at about 17.1 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 26.6 million.",
+    "About 64% of people there live in urban areas.",
+    "26.6 million × 64% ≈ 17.1 million."
+   ],
+   "fact": "64% of North Korea’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PRK"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-prt",
+   "category": "geography",
+   "text": "How many people in Portugal live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6644490,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Portugal’s urban population at about 6.64 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.8 million.",
+    "About 61% of people there live in urban areas.",
+    "10.8 million × 61% ≈ 6.64 million."
+   ],
+   "fact": "61% of Portugal’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PRT"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-pry",
+   "category": "geography",
+   "text": "How many people in Paraguay live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4936489,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Paraguay’s urban population at about 4.94 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 7.01 million.",
+    "About 70% of people there live in urban areas.",
+    "7.01 million × 70% ≈ 4.94 million."
+   ],
+   "fact": "70% of Paraguay’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PRY"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-pse",
+   "category": "geography",
+   "text": "How many people in West Bank and Gaza live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4730503,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put West Bank and Gaza’s urban population at about 4.73 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.41 million.",
+    "About 87% of people there live in urban areas.",
+    "5.41 million × 87% ≈ 4.73 million."
+   ],
+   "fact": "87% of West Bank and Gaza’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=PSE"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-qat",
+   "category": "geography",
+   "text": "How many people in Qatar live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2953173,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Qatar’s urban population at about 2.95 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.97 million.",
+    "About 99% of people there live in urban areas.",
+    "2.97 million × 99% ≈ 2.95 million."
+   ],
+   "fact": "99% of Qatar’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=QAT"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-rou",
+   "category": "geography",
+   "text": "How many people in Romania live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 9923425,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Romania’s urban population at about 9.92 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 19 million.",
+    "About 52% of people there live in urban areas.",
+    "19 million × 52% ≈ 9.92 million."
+   ],
+   "fact": "52% of Romania’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ROU"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-rus",
+   "category": "geography",
+   "text": "How many people in Russia live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 107994732,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Russia’s urban population at about 108 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 144 million.",
+    "About 75% of people there live in urban areas.",
+    "144 million × 75% ≈ 108 million."
+   ],
+   "fact": "75% of Russia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=RUS"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-rwa",
+   "category": "geography",
+   "text": "How many people in Rwanda live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4503876,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Rwanda’s urban population at about 4.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 14.6 million.",
+    "About 31% of people there live in urban areas.",
+    "14.6 million × 31% ≈ 4.5 million."
+   ],
+   "fact": "31% of Rwanda’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=RWA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-sau",
+   "category": "geography",
+   "text": "How many people in Saudi Arabia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 31284180,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Saudi Arabia’s urban population at about 31.3 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 37 million.",
+    "About 85% of people there live in urban areas.",
+    "37 million × 85% ≈ 31.3 million."
+   ],
+   "fact": "85% of Saudi Arabia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SAU"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-sdn",
+   "category": "geography",
+   "text": "How many people in Sudan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 18048142,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Sudan’s urban population at about 18 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 51.7 million.",
+    "About 35% of people there live in urban areas.",
+    "51.7 million × 35% ≈ 18 million."
+   ],
+   "fact": "35% of Sudan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SDN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-sen",
+   "category": "geography",
+   "text": "How many people in Senegal live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 10557837,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Senegal’s urban population at about 10.6 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 18.9 million.",
+    "About 56% of people there live in urban areas.",
+    "18.9 million × 56% ≈ 10.6 million."
+   ],
+   "fact": "56% of Senegal’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SEN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-sgp",
+   "category": "geography",
+   "text": "How many people in Singapore live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6111175,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Singapore’s urban population at about 6.11 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 6.11 million.",
+    "About 100% of people there live in urban areas.",
+    "6.11 million × 100% ≈ 6.11 million."
+   ],
+   "fact": "100% of Singapore’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SGP"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-sle",
+   "category": "geography",
+   "text": "How many people in Sierra Leone live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4050647,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Sierra Leone’s urban population at about 4.05 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 8.82 million.",
+    "About 46% of people there live in urban areas.",
+    "8.82 million × 46% ≈ 4.05 million."
+   ],
+   "fact": "46% of Sierra Leone’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SLE"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-slv",
+   "category": "geography",
+   "text": "How many people in El Salvador live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4807464,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put El Salvador’s urban population at about 4.81 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 6.37 million.",
+    "About 76% of people there live in urban areas.",
+    "6.37 million × 76% ≈ 4.81 million."
+   ],
+   "fact": "76% of El Salvador’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SLV"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-som",
+   "category": "geography",
+   "text": "How many people in Somalia, Fed. Rep. live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 10837605,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Somalia, Fed. Rep.’s urban population at about 10.8 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 19.7 million.",
+    "About 55% of people there live in urban areas.",
+    "19.7 million × 55% ≈ 10.8 million."
+   ],
+   "fact": "55% of Somalia, Fed. Rep.’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SOM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-srb",
+   "category": "geography",
+   "text": "How many people in Serbia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 4102251,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Serbia’s urban population at about 4.1 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 6.55 million.",
+    "About 63% of people there live in urban areas.",
+    "6.55 million × 63% ≈ 4.1 million."
+   ],
+   "fact": "63% of Serbia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SRB"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ssd",
+   "category": "geography",
+   "text": "How many people in South Sudan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2643061,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put South Sudan’s urban population at about 2.64 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 12.2 million.",
+    "About 22% of people there live in urban areas.",
+    "12.2 million × 22% ≈ 2.64 million."
+   ],
+   "fact": "22% of South Sudan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SSD"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-svk",
+   "category": "geography",
+   "text": "How many people in Slovakia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2879826,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Slovakia’s urban population at about 2.88 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 5.41 million.",
+    "About 53% of people there live in urban areas.",
+    "5.41 million × 53% ≈ 2.88 million."
+   ],
+   "fact": "53% of Slovakia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SVK"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-svn",
+   "category": "geography",
+   "text": "How many people in Slovenia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 1193154,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Slovenia’s urban population at about 1.19 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 2.13 million.",
+    "About 56% of people there live in urban areas.",
+    "2.13 million × 56% ≈ 1.19 million."
+   ],
+   "fact": "56% of Slovenia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SVN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-swe",
+   "category": "geography",
+   "text": "How many people in Sweden live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 9439243,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Sweden’s urban population at about 9.44 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.6 million.",
+    "About 89% of people there live in urban areas.",
+    "10.6 million × 89% ≈ 9.44 million."
+   ],
+   "fact": "89% of Sweden’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SWE"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-syr",
+   "category": "geography",
+   "text": "How many people in Syria live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 18468133,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Syria’s urban population at about 18.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 25.6 million.",
+    "About 72% of people there live in urban areas.",
+    "25.6 million × 72% ≈ 18.5 million."
+   ],
+   "fact": "72% of Syria’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=SYR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-tcd",
+   "category": "geography",
+   "text": "How many people in Chad live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 5789856,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Chad’s urban population at about 5.79 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 21 million.",
+    "About 28% of people there live in urban areas.",
+    "21 million × 28% ≈ 5.79 million."
+   ],
+   "fact": "28% of Chad’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=TCD"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-tgo",
+   "category": "geography",
+   "text": "How many people in Togo live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3814251,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Togo’s urban population at about 3.81 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 8.59 million.",
+    "About 44% of people there live in urban areas.",
+    "8.59 million × 44% ≈ 3.81 million."
+   ],
+   "fact": "44% of Togo’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=TGO"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-tha",
+   "category": "geography",
+   "text": "How many people in Thailand live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 44976800,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Thailand’s urban population at about 45 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 71.6 million.",
+    "About 63% of people there live in urban areas.",
+    "71.6 million × 63% ≈ 45 million."
+   ],
+   "fact": "63% of Thailand’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=THA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-tjk",
+   "category": "geography",
+   "text": "How many people in Tajikistan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 2822323,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Tajikistan’s urban population at about 2.82 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 10.8 million.",
+    "About 26% of people there live in urban areas.",
+    "10.8 million × 26% ≈ 2.82 million."
+   ],
+   "fact": "26% of Tajikistan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=TJK"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-tkm",
+   "category": "geography",
+   "text": "How many people in Turkmenistan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3588885,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Turkmenistan’s urban population at about 3.59 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 7.62 million.",
+    "About 47% of people there live in urban areas.",
+    "7.62 million × 47% ≈ 3.59 million."
+   ],
+   "fact": "47% of Turkmenistan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=TKM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-tun",
+   "category": "geography",
+   "text": "How many people in Tunisia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 8730803,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Tunisia’s urban population at about 8.73 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 12.3 million.",
+    "About 71% of people there live in urban areas.",
+    "12.3 million × 71% ≈ 8.73 million."
+   ],
+   "fact": "71% of Tunisia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=TUN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-tur",
+   "category": "geography",
+   "text": "How many people in Türkiye live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 76856206,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Türkiye’s urban population at about 76.9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 85.9 million.",
+    "About 89% of people there live in urban areas.",
+    "85.9 million × 89% ≈ 76.9 million."
+   ],
+   "fact": "89% of Türkiye’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=TUR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-tza",
+   "category": "geography",
+   "text": "How many people in Tanzania live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 26019651,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Tanzania’s urban population at about 26 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 70.5 million.",
+    "About 37% of people there live in urban areas.",
+    "70.5 million × 37% ≈ 26 million."
+   ],
+   "fact": "37% of Tanzania’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=TZA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-uga",
+   "category": "geography",
+   "text": "How many people in Uganda live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 16412312,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Uganda’s urban population at about 16.4 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 51.4 million.",
+    "About 32% of people there live in urban areas.",
+    "51.4 million × 32% ≈ 16.4 million."
+   ],
+   "fact": "32% of Uganda’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=UGA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ukr",
+   "category": "geography",
+   "text": "How many people in Ukraine live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 27128585,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Ukraine’s urban population at about 27.1 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 39 million.",
+    "About 70% of people there live in urban areas.",
+    "39 million × 70% ≈ 27.1 million."
+   ],
+   "fact": "70% of Ukraine’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=UKR"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ury",
+   "category": "geography",
+   "text": "How many people in Uruguay live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 3237580,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Uruguay’s urban population at about 3.24 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 3.38 million.",
+    "About 96% of people there live in urban areas.",
+    "3.38 million × 96% ≈ 3.24 million."
+   ],
+   "fact": "96% of Uruguay’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=URY"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-usa",
+   "category": "geography",
+   "text": "How many people in the United States live in cities and towns?",
+   "difficulty": "medium",
+   "answer": 274084705,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put the United States’s urban population at about 274 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 342 million.",
+    "About 80% of people there live in urban areas.",
+    "342 million × 80% ≈ 274 million."
+   ],
+   "fact": "80% of the United States’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=USA"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-uzb",
+   "category": "geography",
+   "text": "How many people in Uzbekistan live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 18903677,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Uzbekistan’s urban population at about 18.9 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 37.1 million.",
+    "About 51% of people there live in urban areas.",
+    "37.1 million × 51% ≈ 18.9 million."
+   ],
+   "fact": "51% of Uzbekistan’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=UZB"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-ven",
+   "category": "geography",
+   "text": "How many people in Venezuela live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 25471837,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Venezuela’s urban population at about 25.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 28.5 million.",
+    "About 89% of people there live in urban areas.",
+    "28.5 million × 89% ≈ 25.5 million."
+   ],
+   "fact": "89% of Venezuela’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=VEN"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-vnm",
+   "category": "geography",
+   "text": "How many people in Vietnam live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 39450623,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Vietnam’s urban population at about 39.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 102 million.",
+    "About 39% of people there live in urban areas.",
+    "102 million × 39% ≈ 39.5 million."
+   ],
+   "fact": "39% of Vietnam’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=VNM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-yem",
+   "category": "geography",
+   "text": "How many people in Yemen live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 15470399,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Yemen’s urban population at about 15.5 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 41.8 million.",
+    "About 37% of people there live in urban areas.",
+    "41.8 million × 37% ≈ 15.5 million."
+   ],
+   "fact": "37% of Yemen’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=YEM"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-zaf",
+   "category": "geography",
+   "text": "How many people in South Africa live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 41318761,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put South Africa’s urban population at about 41.3 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 64.7 million.",
+    "About 64% of people there live in urban areas.",
+    "64.7 million × 64% ≈ 41.3 million."
+   ],
+   "fact": "64% of South Africa’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ZAF"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-zmb",
+   "category": "geography",
+   "text": "How many people in Zambia live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 10062227,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Zambia’s urban population at about 10.1 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 21.9 million.",
+    "About 46% of people there live in urban areas.",
+    "21.9 million × 46% ≈ 10.1 million."
+   ],
+   "fact": "46% of Zambia’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ZMB"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "wb-urban-zwe",
+   "category": "geography",
+   "text": "How many people in Zimbabwe live in cities and towns?",
+   "difficulty": "hard",
+   "answer": 6864246,
+   "unit": "people",
+   "kind": "fact",
+   "explanation": "World Bank estimates put Zimbabwe’s urban population at about 6.86 million (2025), using each country’s own definition of “urban”.",
+   "reasoning": [
+    "Total population ≈ 17 million.",
+    "About 40% of people there live in urban areas.",
+    "17 million × 40% ≈ 6.86 million."
+   ],
+   "fact": "40% of Zimbabwe’s people are urban; the world as a whole crossed 50% around 2007.",
+   "sources": [
+    {
+     "label": "World Bank Open Data: Urban population",
+     "url": "https://data.worldbank.org/indicator/SP.URB.TOTL?locations=ZWE"
+    }
+   ],
+   "dailyEligible": false
+  }
+ ]
+}

@@ -1,0 +1,3452 @@
+{
+ "pack": {
+  "slug": "wd-cities-india",
+  "name": "Indian cities: population"
+ },
+ "questions": [
+  {
+   "slug": "city-surat-q4629",
+   "category": "india",
+   "text": "How many people lived in Surat, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 4467797,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 4.47 million people in Surat’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Surat holds about 0.3%.",
+    "1.46 billion × 0.3% ≈ 4.47 million."
+   ],
+   "fact": "Despite its size, Surat is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-durgapur-q5088",
+   "category": "india",
+   "text": "How many people live in Durgapur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 566517,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 566,517 for Durgapur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Durgapur holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 566,517."
+   ],
+   "fact": "Despite its size, Durgapur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Durgapur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q5088"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-salem-q9863",
+   "category": "india",
+   "text": "How many people live in Salem, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 693236,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 693,236 for Salem. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Salem holds about 0.05%.",
+    "1.46 billion × 0.05% ≈ 693,236."
+   ],
+   "fact": "Despite its size, Salem is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Salem (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q9863"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-coimbatore-q9885",
+   "category": "india",
+   "text": "How many people live in Coimbatore, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 959823,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 959,823 for Coimbatore. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Coimbatore holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 959,823."
+   ],
+   "fact": "Despite its size, Coimbatore is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Coimbatore (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q9885"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-mysore-q10086",
+   "category": "india",
+   "text": "How many people live in Mysore, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 920550,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 920,550 for Mysore. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Mysore holds about 0.06%.",
+    "1.46 billion × 0.06% ≈ 920,550."
+   ],
+   "fact": "Despite its size, Mysore is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Mysore (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q10086"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-rajkot-q11854",
+   "category": "india",
+   "text": "How many people live in Rajkot, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 2043000,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 2.04 million for Rajkot. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Rajkot holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 2.04 million."
+   ],
+   "fact": "Despite its size, Rajkot is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Rajkot (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q11854"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-vadodara-q11909",
+   "category": "india",
+   "text": "How many people live in Vadodara, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 2065771,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 2.07 million for Vadodara. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Vadodara holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 2.07 million."
+   ],
+   "fact": "Despite its size, Vadodara is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Vadodara (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q11909"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kochi-q1800",
+   "category": "india",
+   "text": "How many people live in Kochi, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 677381,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 677,381 for Kochi. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kochi holds about 0.05%.",
+    "1.46 billion × 0.05% ≈ 677,381."
+   ],
+   "fact": "Despite its size, Kochi is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Kochi (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1800"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ahmedabad-q1070",
+   "category": "india",
+   "text": "How many people lived in Ahmedabad, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 5577940,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 5.58 million people in Ahmedabad’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ahmedabad holds about 0.4%.",
+    "1.46 billion × 0.4% ≈ 5.58 million."
+   ],
+   "fact": "Despite its size, Ahmedabad is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jamnagar-q1154",
+   "category": "india",
+   "text": "How many people live in Jamnagar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 479920,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 479,920 for Jamnagar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jamnagar holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 479,920."
+   ],
+   "fact": "Despite its size, Jamnagar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Jamnagar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1154"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-nagpur-q1513",
+   "category": "india",
+   "text": "How many people lived in Nagpur, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "hard",
+   "answer": 2405665,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "The 2011 Census of India counted 2.41 million people in Nagpur’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Nagpur holds about 0.2%.",
+    "1.46 billion × 0.2% ≈ 2.41 million."
+   ],
+   "fact": "Despite its size, Nagpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-dispur-q271911",
+   "category": "india",
+   "text": "How many people live in Dispur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 734577,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 734,577 for Dispur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Dispur holds about 0.05%.",
+    "1.46 billion × 0.05% ≈ 734,577."
+   ],
+   "fact": "Despite its size, Dispur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Dispur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q271911"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-madurai-q228405",
+   "category": "india",
+   "text": "How many people live in Madurai, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1561129,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.56 million for Madurai. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Madurai holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.56 million."
+   ],
+   "fact": "Despite its size, Madurai is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Madurai (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q228405"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-solapur-q237847",
+   "category": "india",
+   "text": "How many people live in Solapur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 951558,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 951,558 for Solapur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Solapur holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 951,558."
+   ],
+   "fact": "Despite its size, Solapur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Solapur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q237847"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-gurgaon-q238508",
+   "category": "india",
+   "text": "How many people live in Gurgaon, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 876824,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 876,824 for Gurgaon. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Gurgaon holds about 0.06%.",
+    "1.46 billion × 0.06% ≈ 876,824."
+   ],
+   "fact": "Despite its size, Gurgaon is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Gurgaon (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q238508"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bhilai-q242144",
+   "category": "india",
+   "text": "How many people live in Bhilai, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 625700,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 625,700 for Bhilai. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bhilai holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 625,700."
+   ],
+   "fact": "Despite its size, Bhilai is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bhilai (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q242144"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-saharanpur-q242895",
+   "category": "india",
+   "text": "How many people live in Saharanpur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 705478,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 705,478 for Saharanpur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Saharanpur holds about 0.05%.",
+    "1.46 billion × 0.05% ≈ 705,478."
+   ],
+   "fact": "Despite its size, Saharanpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Saharanpur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q242895"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jhansi-q242995",
+   "category": "india",
+   "text": "How many people live in Jhansi, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 507000,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 507,000 for Jhansi. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jhansi holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 507,000."
+   ],
+   "fact": "Despite its size, Jhansi is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Jhansi (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q242995"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-gaya-q251329",
+   "category": "india",
+   "text": "How many people live in Gaya, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 474093,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 474,093 for Gaya. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Gaya holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 474,093."
+   ],
+   "fact": "Despite its size, Gaya is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Gaya (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q251329"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-rajpur-sonarpur-q261988",
+   "category": "india",
+   "text": "How many people live in Rajpur Sonarpur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 424368,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 424,368 for Rajpur Sonarpur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Rajpur Sonarpur holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 424,368."
+   ],
+   "fact": "Despite its size, Rajpur Sonarpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Rajpur Sonarpur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q261988"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-belgaum-q270176",
+   "category": "india",
+   "text": "How many people live in Belgaum, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 488157,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 488,157 for Belgaum. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Belgaum holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 488,157."
+   ],
+   "fact": "Despite its size, Belgaum is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Belgaum (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q270176"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-cuttack-q207324",
+   "category": "india",
+   "text": "How many people live in Cuttack, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 606007,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 606,007 for Cuttack. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Cuttack holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 606,007."
+   ],
+   "fact": "Despite its size, Cuttack is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Cuttack (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q207324"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-thane-q207749",
+   "category": "india",
+   "text": "How many people live in Thane, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1886941,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.89 million for Thane. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Thane holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.89 million."
+   ],
+   "fact": "Despite its size, Thane is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Thane (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q207749"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-tiruchirappalli-q207754",
+   "category": "india",
+   "text": "How many people live in Tiruchirappalli, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 916857,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 916,857 for Tiruchirappalli. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Tiruchirappalli holds about 0.06%.",
+    "1.46 billion × 0.06% ≈ 916,857."
+   ],
+   "fact": "Despite its size, Tiruchirappalli is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Tiruchirappalli (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q207754"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-patiala-q208162",
+   "category": "india",
+   "text": "How many people live in Patiala, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 406192,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 406,192 for Patiala. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Patiala holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 406,192."
+   ],
+   "fact": "Despite its size, Patiala is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Patiala (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q208162"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-akola-q213014",
+   "category": "india",
+   "text": "How many people live in Akola, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 425817,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 425,817 for Akola. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Akola holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 425,817."
+   ],
+   "fact": "Despite its size, Akola is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Akola (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q213014"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bareilly-q213026",
+   "category": "india",
+   "text": "How many people live in Bareilly, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1000000,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1 million for Bareilly. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bareilly holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 1 million."
+   ],
+   "fact": "Despite its size, Bareilly is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bareilly (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q213026"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ahilyanagar-q223517",
+   "category": "india",
+   "text": "How many people live in Ahilyanagar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 350859,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 350,859 for Ahilyanagar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ahilyanagar holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 350,859."
+   ],
+   "fact": "Despite its size, Ahilyanagar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Ahilyanagar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q223517"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kollam-q321475",
+   "category": "india",
+   "text": "How many people live in Kollam, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 397419,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 397,419 for Kollam. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kollam holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 397,419."
+   ],
+   "fact": "Despite its size, Kollam is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Kollam (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q321475"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kota-q330531",
+   "category": "india",
+   "text": "How many people live in Kota, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1001694,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1 million for Kota. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kota holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 1 million."
+   ],
+   "fact": "Despite its size, Kota is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Kota (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q330531"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-moradabad-q330643",
+   "category": "india",
+   "text": "How many people live in Moradabad, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 887871,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 887,871 for Moradabad. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Moradabad holds about 0.06%.",
+    "1.46 billion × 0.06% ≈ 887,871."
+   ],
+   "fact": "Despite its size, Moradabad is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Moradabad (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q330643"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-raipur-q372773",
+   "category": "india",
+   "text": "How many people live in Raipur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1010087,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.01 million for Raipur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Raipur holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 1.01 million."
+   ],
+   "fact": "Despite its size, Raipur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Raipur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q372773"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-warangal-q25563103",
+   "category": "india",
+   "text": "How many people live in Warangal, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 704570,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 704,570 for Warangal. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Warangal holds about 0.05%.",
+    "1.46 billion × 0.05% ≈ 704,570."
+   ],
+   "fact": "Despite its size, Warangal is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Warangal (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q25563103"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kozhikode-q28729",
+   "category": "india",
+   "text": "How many people live in Kozhikode, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 609224,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 609,224 for Kozhikode. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kozhikode holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 609,224."
+   ],
+   "fact": "Despite its size, Kozhikode is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Kozhikode (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q28729"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jalgaon-q30951",
+   "category": "india",
+   "text": "How many people live in Jalgaon, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 460468,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 460,468 for Jalgaon. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jalgaon holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 460,468."
+   ],
+   "fact": "Despite its size, Jalgaon is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Jalgaon (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q30951"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-nizamabad-q41473",
+   "category": "india",
+   "text": "How many people live in Nizamabad, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 311152,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 311,152 for Nizamabad. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Nizamabad holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 311,152."
+   ],
+   "fact": "Despite its size, Nizamabad is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Nizamabad (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q41473"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-south-dum-dum-q41538",
+   "category": "india",
+   "text": "How many people live in South Dum Dum, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 403316,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 403,316 for South Dum Dum. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; South Dum Dum holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 403,316."
+   ],
+   "fact": "Despite its size, South Dum Dum is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: South Dum Dum (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q41538"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-sangli-q429215",
+   "category": "india",
+   "text": "How many people live in Sangli, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 436639,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 436,639 for Sangli. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Sangli holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 436,639."
+   ],
+   "fact": "Despite its size, Sangli is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Sangli (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q429215"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ulhasnagar-q460222",
+   "category": "india",
+   "text": "How many people live in Ulhasnagar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 506098,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 506,098 for Ulhasnagar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ulhasnagar holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 506,098."
+   ],
+   "fact": "Despite its size, Ulhasnagar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Ulhasnagar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q460222"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-agra-q42941",
+   "category": "india",
+   "text": "How many people live in Agra, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1585705,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.59 million for Agra. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Agra holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.59 million."
+   ],
+   "fact": "Despite its size, Agra is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Agra (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q42941"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-chandigarh-q43433",
+   "category": "india",
+   "text": "How many people live in Chandigarh, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1055450,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.06 million for Chandigarh. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Chandigarh holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 1.06 million."
+   ],
+   "fact": "Despite its size, Chandigarh is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Chandigarh (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q43433"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-lucknow-q47916",
+   "category": "india",
+   "text": "How many people lived in Lucknow, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "hard",
+   "answer": 2817105,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "The 2011 Census of India counted 2.82 million people in Lucknow’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Lucknow holds about 0.2%.",
+    "1.46 billion × 0.2% ≈ 2.82 million."
+   ],
+   "fact": "Despite its size, Lucknow is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-vasai-virar-q580876",
+   "category": "india",
+   "text": "How many people live in Vasai-Virar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1222390,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.22 million for Vasai-Virar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Vasai-Virar holds about 0.08%.",
+    "1.46 billion × 0.08% ≈ 1.22 million."
+   ],
+   "fact": "Despite its size, Vasai-Virar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Vasai-Virar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q580876"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-navi-mumbai-q61445",
+   "category": "india",
+   "text": "How many people live in Navi Mumbai, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1119477,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.12 million for Navi Mumbai. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Navi Mumbai holds about 0.08%.",
+    "1.46 billion × 0.08% ≈ 1.12 million."
+   ],
+   "fact": "Despite its size, Navi Mumbai is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Navi Mumbai (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q61445"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jaipur-q66485",
+   "category": "india",
+   "text": "How many people lived in Jaipur, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "hard",
+   "answer": 3046163,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "The 2011 Census of India counted 3.05 million people in Jaipur’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jaipur holds about 0.2%.",
+    "1.46 billion × 0.2% ≈ 3.05 million."
+   ],
+   "fact": "Despite its size, Jaipur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kanpur-q66568",
+   "category": "india",
+   "text": "How many people lived in Kanpur, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 2765348,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 2.77 million people in Kanpur’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kanpur holds about 0.2%.",
+    "1.46 billion × 0.2% ≈ 2.77 million."
+   ],
+   "fact": "Despite its size, Kanpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-indore-q66616",
+   "category": "india",
+   "text": "How many people live in Indore, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1994397,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.99 million for Indore. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Indore holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.99 million."
+   ],
+   "fact": "Despite its size, Indore is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Indore (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q66616"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kamarhati-q68953",
+   "category": "india",
+   "text": "How many people live in Kamarhati, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 330211,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 330,211 for Kamarhati. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kamarhati holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 330,211."
+   ],
+   "fact": "Despite its size, Kamarhati is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Kamarhati (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q68953"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-patna-q80484",
+   "category": "india",
+   "text": "How many people live in Patna, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1684222,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.68 million for Patna. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Patna holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.68 million."
+   ],
+   "fact": "Despite its size, Patna is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Patna (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q80484"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bhopal-q80989",
+   "category": "india",
+   "text": "How many people live in Bhopal, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1798218,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.8 million for Bhopal. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bhopal holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.8 million."
+   ],
+   "fact": "Despite its size, Bhopal is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bhopal (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q80989"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-mangaluru-q127041",
+   "category": "india",
+   "text": "How many people live in Mangaluru, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 623841,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 623,841 for Mangaluru. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Mangaluru holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 623,841."
+   ],
+   "fact": "Despite its size, Mangaluru is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Mangaluru (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q127041"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bhiwandi-q645725",
+   "category": "india",
+   "text": "How many people live in Bhiwandi, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 709665,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 709,665 for Bhiwandi. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bhiwandi holds about 0.05%.",
+    "1.46 billion × 0.05% ≈ 709,665."
+   ],
+   "fact": "Despite its size, Bhiwandi is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bhiwandi (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q645725"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bardhaman-q709267",
+   "category": "india",
+   "text": "How many people live in Bardhaman, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 314265,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 314,265 for Bardhaman. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bardhaman holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 314,265."
+   ],
+   "fact": "Despite its size, Bardhaman is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bardhaman (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q709267"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-gwalior-q158467",
+   "category": "india",
+   "text": "How many people live in Gwalior, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1069276,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.07 million for Gwalior. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Gwalior holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 1.07 million."
+   ],
+   "fact": "Despite its size, Gwalior is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Gwalior (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q158467"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-thrissur-q163798",
+   "category": "india",
+   "text": "How many people live in Thrissur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 315596,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 315,596 for Thrissur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Thrissur holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 315,596."
+   ],
+   "fact": "Despite its size, Thrissur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Thrissur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q163798"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-thiruvananthapuram-q167715",
+   "category": "india",
+   "text": "How many people live in Thiruvananthapuram, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 743691,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 743,691 for Thiruvananthapuram. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Thiruvananthapuram holds about 0.05%.",
+    "1.46 billion × 0.05% ≈ 743,691."
+   ],
+   "fact": "Despite its size, Thiruvananthapuram is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Thiruvananthapuram (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q167715"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-srinagar-q170115",
+   "category": "india",
+   "text": "How many people live in Srinagar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1180570,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.18 million for Srinagar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Srinagar holds about 0.08%.",
+    "1.46 billion × 0.08% ≈ 1.18 million."
+   ],
+   "fact": "Despite its size, Srinagar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Srinagar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q170115"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-agartala-q170454",
+   "category": "india",
+   "text": "How many people live in Agartala, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 522613,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 522,613 for Agartala. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Agartala holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 522,613."
+   ],
+   "fact": "Despite its size, Agartala is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Agartala (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q170454"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bhubaneswar-q171771",
+   "category": "india",
+   "text": "How many people live in Bhubaneswar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 837737,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 837,737 for Bhubaneswar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bhubaneswar holds about 0.06%.",
+    "1.46 billion × 0.06% ≈ 837,737."
+   ],
+   "fact": "Despite its size, Bhubaneswar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bhubaneswar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q171771"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ranchi-q174461",
+   "category": "india",
+   "text": "How many people live in Ranchi, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1073440,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.07 million for Ranchi. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ranchi holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 1.07 million."
+   ],
+   "fact": "Despite its size, Ranchi is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Ranchi (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q174461"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-dehradun-q199528",
+   "category": "india",
+   "text": "How many people live in Dehradun, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 578420,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 578,420 for Dehradun. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Dehradun holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 578,420."
+   ],
+   "fact": "Despite its size, Dehradun is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Dehradun (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q199528"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-guwahati-q199605",
+   "category": "india",
+   "text": "How many people live in Guwahati, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1116267,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.12 million for Guwahati. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Guwahati holds about 0.08%.",
+    "1.46 billion × 0.08% ≈ 1.12 million."
+   ],
+   "fact": "Despite its size, Guwahati is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Guwahati (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q199605"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-vijayawada-q200017",
+   "category": "india",
+   "text": "How many people live in Vijayawada, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1048240,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.05 million for Vijayawada. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Vijayawada holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 1.05 million."
+   ],
+   "fact": "Despite its size, Vijayawada is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Vijayawada (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200017"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jodhpur-q200019",
+   "category": "india",
+   "text": "How many people live in Jodhpur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1033918,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.03 million for Jodhpur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jodhpur holds about 0.07%.",
+    "1.46 billion × 0.07% ≈ 1.03 million."
+   ],
+   "fact": "Despite its size, Jodhpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Jodhpur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200019"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ajmer-q200049",
+   "category": "india",
+   "text": "How many people live in Ajmer, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 542321,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 542,321 for Ajmer. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ajmer holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 542,321."
+   ],
+   "fact": "Despite its size, Ajmer is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Ajmer (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200049"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jamshedpur-q200054",
+   "category": "india",
+   "text": "How many people live in Jamshedpur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1558000,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.56 million for Jamshedpur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jamshedpur holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.56 million."
+   ],
+   "fact": "Despite its size, Jamshedpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Jamshedpur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200054"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ujjain-q200119",
+   "category": "india",
+   "text": "How many people live in Ujjain, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 515215,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 515,215 for Ujjain. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ujjain holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 515,215."
+   ],
+   "fact": "Despite its size, Ujjain is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Ujjain (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200119"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-nashik-q200235",
+   "category": "india",
+   "text": "How many people live in Nashik, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1486053,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.49 million for Nashik. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Nashik holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.49 million."
+   ],
+   "fact": "Despite its size, Nashik is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Nashik (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200235"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-meerut-q200237",
+   "category": "india",
+   "text": "How many people live in Meerut, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1571434,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.57 million for Meerut. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Meerut holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.57 million."
+   ],
+   "fact": "Despite its size, Meerut is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Meerut (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200237"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-udaipur-q200340",
+   "category": "india",
+   "text": "How many people live in Udaipur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 451100,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 451,100 for Udaipur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Udaipur holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 451,100."
+   ],
+   "fact": "Despite its size, Udaipur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Udaipur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200340"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-faridabad-q200663",
+   "category": "india",
+   "text": "How many people live in Faridabad, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1404653,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.4 million for Faridabad. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Faridabad holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.4 million."
+   ],
+   "fact": "Despite its size, Faridabad is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Faridabad (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200663"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-aurangabad-q200713",
+   "category": "india",
+   "text": "How many people live in Aurangabad, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1175116,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.18 million for Aurangabad. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Aurangabad holds about 0.08%.",
+    "1.46 billion × 0.08% ≈ 1.18 million."
+   ],
+   "fact": "Despite its size, Aurangabad is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Aurangabad (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200713"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bikaner-q200718",
+   "category": "india",
+   "text": "How many people live in Bikaner, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 529007,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 529,007 for Bikaner. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bikaner holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 529,007."
+   ],
+   "fact": "Despite its size, Bikaner is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bikaner (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200718"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jabalpur-q200878",
+   "category": "india",
+   "text": "How many people live in Jabalpur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1267564,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.27 million for Jabalpur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jabalpur holds about 0.09%.",
+    "1.46 billion × 0.09% ≈ 1.27 million."
+   ],
+   "fact": "Despite its size, Jabalpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Jabalpur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200878"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-aligarh-q201832",
+   "category": "india",
+   "text": "How many people live in Aligarh, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 874408,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 874,408 for Aligarh. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Aligarh holds about 0.06%.",
+    "1.46 billion × 0.06% ≈ 874,408."
+   ],
+   "fact": "Despite its size, Aligarh is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Aligarh (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q201832"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-asansol-q202139",
+   "category": "india",
+   "text": "How many people live in Asansol, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 563917,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 563,917 for Asansol. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Asansol holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 563,917."
+   ],
+   "fact": "Despite its size, Asansol is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Asansol (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q202139"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ghaziabad-q207098",
+   "category": "india",
+   "text": "How many people live in Ghaziabad, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 2375820,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 2.38 million for Ghaziabad. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ghaziabad holds about 0.2%.",
+    "1.46 billion × 0.2% ≈ 2.38 million."
+   ],
+   "fact": "Despite its size, Ghaziabad is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Ghaziabad (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q207098"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bhagalpur-q760714",
+   "category": "india",
+   "text": "How many people live in Bhagalpur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 340767,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 340,767 for Bhagalpur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bhagalpur holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 340,767."
+   ],
+   "fact": "Despite its size, Bhagalpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bhagalpur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q760714"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bidhannagar-q796739",
+   "category": "india",
+   "text": "How many people live in Bidhannagar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 632107,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 632,107 for Bidhannagar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bidhannagar holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 632,107."
+   ],
+   "fact": "Despite its size, Bidhannagar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bidhannagar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q796739"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bhatpara-q854914",
+   "category": "india",
+   "text": "How many people live in Bhatpara, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 386019,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 386,019 for Bhatpara. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bhatpara holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 386,019."
+   ],
+   "fact": "Despite its size, Bhatpara is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bhatpara (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q854914"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bilaspur-q860452",
+   "category": "india",
+   "text": "How many people live in Bilaspur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 365579,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 365,579 for Bilaspur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bilaspur holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 365,579."
+   ],
+   "fact": "Despite its size, Bilaspur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bilaspur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q860452"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-mira-bhayandar-q1006343",
+   "category": "india",
+   "text": "How many people live in Mira-Bhayandar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 814655,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 814,655 for Mira-Bhayandar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Mira-Bhayandar holds about 0.06%.",
+    "1.46 billion × 0.06% ≈ 814,655."
+   ],
+   "fact": "Despite its size, Mira-Bhayandar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Mira-Bhayandar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1006343"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-rohtak-q1453180",
+   "category": "india",
+   "text": "How many people live in Rohtak, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 374292,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 374,292 for Rohtak. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Rohtak holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 374,292."
+   ],
+   "fact": "Despite its size, Rohtak is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Rohtak (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1453180"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-muzaffarpur-q1453196",
+   "category": "india",
+   "text": "How many people live in Muzaffarpur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 333200,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 333,200 for Muzaffarpur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Muzaffarpur holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 333,200."
+   ],
+   "fact": "Despite its size, Muzaffarpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Muzaffarpur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1453196"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-purnia-q1771762",
+   "category": "india",
+   "text": "How many people live in Purnia, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 310817,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 310,817 for Purnia. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Purnia holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 310,817."
+   ],
+   "fact": "Despite its size, Purnia is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Purnia (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1771762"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-hisar-q1772825",
+   "category": "india",
+   "text": "How many people live in Hisar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 307024,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 307,024 for Hisar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Hisar holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 307,024."
+   ],
+   "fact": "Despite its size, Hisar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Hisar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1772825"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-motihari-q1774606",
+   "category": "india",
+   "text": "How many people live in Motihari, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 426158,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 426,158 for Motihari. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Motihari holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 426,158."
+   ],
+   "fact": "Despite its size, Motihari is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Motihari (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1774606"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-panihati-q1801463",
+   "category": "india",
+   "text": "How many people live in Panihati, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 377347,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 377,347 for Panihati. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Panihati holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 377,347."
+   ],
+   "fact": "Despite its size, Panihati is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Panihati (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1801463"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-maheshtala-q1807947",
+   "category": "india",
+   "text": "How many people live in Maheshtala, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 448317,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 448,317 for Maheshtala. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Maheshtala holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 448,317."
+   ],
+   "fact": "Despite its size, Maheshtala is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Maheshtala (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1807947"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-alwar-q2722762",
+   "category": "india",
+   "text": "How many people live in Alwar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 341422,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 341,422 for Alwar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Alwar holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 341,422."
+   ],
+   "fact": "Despite its size, Alwar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Alwar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q2722762"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-vijayapura-q3636023",
+   "category": "india",
+   "text": "How many people live in Vijayapura, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 327427,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 327,427 for Vijayapura. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Vijayapura holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 327,427."
+   ],
+   "fact": "Despite its size, Vijayapura is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Vijayapura (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q3636023"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-gorakhpur-q5584396",
+   "category": "india",
+   "text": "How many people live in Gorakhpur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 673446,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 673,446 for Gorakhpur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Gorakhpur holds about 0.05%.",
+    "1.46 billion × 0.05% ≈ 673,446."
+   ],
+   "fact": "Despite its size, Gorakhpur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Gorakhpur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q5584396"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-junagadh-q11864",
+   "category": "india",
+   "text": "How many people live in Junagadh, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 320250,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 320,250 for Junagadh. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Junagadh holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 320,250."
+   ],
+   "fact": "Despite its size, Junagadh is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Junagadh (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q11864"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-mumbai-q1156",
+   "category": "india",
+   "text": "How many people lived in Mumbai, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 12442373,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 12.4 million people in Mumbai’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Mumbai holds about 0.8%.",
+    "1.46 billion × 0.8% ≈ 12.4 million."
+   ],
+   "fact": "Despite its size, Mumbai is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bengaluru-q1355",
+   "category": "india",
+   "text": "How many people lived in Bengaluru, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 8443675,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 8.44 million people in Bengaluru’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bengaluru holds about 0.6%.",
+    "1.46 billion × 0.6% ≈ 8.44 million."
+   ],
+   "fact": "Despite its size, Bengaluru is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-pune-q1538",
+   "category": "india",
+   "text": "How many people lived in Pune, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 3124458,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 3.12 million people in Pune’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Pune holds about 0.2%.",
+    "1.46 billion × 0.2% ≈ 3.12 million."
+   ],
+   "fact": "Despite its size, Pune is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ballari-q429063",
+   "category": "india",
+   "text": "How many people live in Ballari, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 410445,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 410,445 for Ballari. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ballari holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 410,445."
+   ],
+   "fact": "Despite its size, Ballari is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Ballari (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q429063"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-malegaon-q580965",
+   "category": "india",
+   "text": "How many people live in Malegaon, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 576642,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 576,642 for Malegaon. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Malegaon holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 576,642."
+   ],
+   "fact": "Despite its size, Malegaon is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Malegaon (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q580965"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-prayagraj-q162442",
+   "category": "india",
+   "text": "How many people lived in Prayagraj, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 1112544,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 1.11 million people in Prayagraj’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Prayagraj holds about 0.08%.",
+    "1.46 billion × 0.08% ≈ 1.11 million."
+   ],
+   "fact": "Despite its size, Prayagraj is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-tirunelveli-q213248",
+   "category": "india",
+   "text": "How many people live in Tirunelveli, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 411298,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 411,298 for Tirunelveli. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Tirunelveli holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 411,298."
+   ],
+   "fact": "Despite its size, Tirunelveli is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Tirunelveli (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q213248"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jammu-q255455",
+   "category": "india",
+   "text": "How many people live in Jammu, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 502197,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 502,197 for Jammu. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jammu holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 502,197."
+   ],
+   "fact": "Despite its size, Jammu is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Jammu (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q255455"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-amravati-q269899",
+   "category": "india",
+   "text": "How many people live in Amravati, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 549370,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 549,370 for Amravati. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Amravati holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 549,370."
+   ],
+   "fact": "Despite its size, Amravati is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Amravati (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q269899"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-noida-q278204",
+   "category": "india",
+   "text": "How many people live in Noida, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 637272,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 637,272 for Noida. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Noida holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 637,272."
+   ],
+   "fact": "Despite its size, Noida is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Noida (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q278204"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-vellore-q300577",
+   "category": "india",
+   "text": "How many people live in Vellore, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 484690,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 484,690 for Vellore. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Vellore holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 484,690."
+   ],
+   "fact": "Despite its size, Vellore is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Vellore (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q300577"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kadapa-q30651",
+   "category": "india",
+   "text": "How many people live in Kadapa, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 344893,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 344,893 for Kadapa. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kadapa holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 344,893."
+   ],
+   "fact": "Despite its size, Kadapa is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Kadapa (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q30651"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-jalandhar-q33377",
+   "category": "india",
+   "text": "How many people live in Jalandhar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 873725,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 873,725 for Jalandhar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Jalandhar holds about 0.06%.",
+    "1.46 billion × 0.06% ≈ 873,725."
+   ],
+   "fact": "Despite its size, Jalandhar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Jalandhar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q33377"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kakinada-q59018",
+   "category": "india",
+   "text": "How many people live in Kakinada, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 384182,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 384,182 for Kakinada. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kakinada holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 384,182."
+   ],
+   "fact": "Despite its size, Kakinada is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Kakinada (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q59018"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-nellore-q61434",
+   "category": "india",
+   "text": "How many people live in Nellore, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 547621,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 547,621 for Nellore. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Nellore holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 547,621."
+   ],
+   "fact": "Despite its size, Nellore is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Nellore (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q61434"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-varanasi-q79980",
+   "category": "india",
+   "text": "How many people live in Varanasi, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1198491,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.2 million for Varanasi. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Varanasi holds about 0.08%.",
+    "1.46 billion × 0.08% ≈ 1.2 million."
+   ],
+   "fact": "Despite its size, Varanasi is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Varanasi (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q79980"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-bhilwara-q760146",
+   "category": "india",
+   "text": "How many people live in Bhilwara, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 359483,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 359,483 for Bhilwara. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Bhilwara holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 359,483."
+   ],
+   "fact": "Despite its size, Bhilwara is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Bhilwara (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q760146"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-dhule-q773603",
+   "category": "india",
+   "text": "How many people live in Dhule, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 375559,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 375,559 for Dhule. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Dhule holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 375,559."
+   ],
+   "fact": "Despite its size, Dhule is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Dhule (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q773603"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-rourkela-q1012706",
+   "category": "india",
+   "text": "How many people live in Rourkela, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 552970,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 552,970 for Rourkela. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Rourkela holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 552,970."
+   ],
+   "fact": "Despite its size, Rourkela is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Rourkela (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1012706"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-rajahmundry-q1639492",
+   "category": "india",
+   "text": "How many people live in Rajahmundry, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 341831,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 341,831 for Rajahmundry. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Rajahmundry holds about 0.02%.",
+    "1.46 billion × 0.02% ≈ 341,831."
+   ],
+   "fact": "Despite its size, Rajahmundry is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Rajahmundry (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q1639492"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kolkata-q1348",
+   "category": "india",
+   "text": "How many people lived in Kolkata, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "hard",
+   "answer": 4496694,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "The 2011 Census of India counted 4.5 million people in Kolkata’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kolkata holds about 0.3%.",
+    "1.46 billion × 0.3% ≈ 4.5 million."
+   ],
+   "fact": "Despite its size, Kolkata is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-delhi-q1353",
+   "category": "india",
+   "text": "How many people lived in Delhi, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 11034555,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 11 million people in Delhi’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Delhi holds about 0.8%.",
+    "1.46 billion × 0.8% ≈ 11 million."
+   ],
+   "fact": "Despite its size, Delhi is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-hyderabad-q1361",
+   "category": "india",
+   "text": "How many people lived in Hyderabad, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 6809970,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 6.81 million people in Hyderabad’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Hyderabad holds about 0.5%.",
+    "1.46 billion × 0.5% ≈ 6.81 million."
+   ],
+   "fact": "Despite its size, Hyderabad is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-muzaffarnagar-q2768828",
+   "category": "india",
+   "text": "How many people live in Muzaffarnagar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 392768,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 392,768 for Muzaffarnagar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Muzaffarnagar holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 392,768."
+   ],
+   "fact": "Despite its size, Muzaffarnagar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Muzaffarnagar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q2768828"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-guntur-q3120966",
+   "category": "india",
+   "text": "How many people live in Guntur, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 647508,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 647,508 for Guntur. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Guntur holds about 0.04%.",
+    "1.46 billion × 0.04% ≈ 647,508."
+   ],
+   "fact": "Despite its size, Guntur is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Guntur (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q3120966"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-kurnool-q3635276",
+   "category": "india",
+   "text": "How many people live in Kurnool, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 457633,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 457,633 for Kurnool. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Kurnool holds about 0.03%.",
+    "1.46 billion × 0.03% ≈ 457,633."
+   ],
+   "fact": "Despite its size, Kurnool is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Kurnool (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q3635276"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-chennai-q1352",
+   "category": "india",
+   "text": "How many people lived in Chennai, India, at the 2011 Census? (The city proper, not the metro area.)",
+   "difficulty": "medium",
+   "answer": 4646732,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "The 2011 Census of India counted 4.65 million people in Chennai’s municipal limits; the wider urban agglomeration is larger.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Chennai holds about 0.3%.",
+    "1.46 billion × 0.3% ≈ 4.65 million."
+   ],
+   "fact": "Despite its size, Chennai is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Census of India 2011: cities with population over 1 lakh",
+     "url": "https://censusindia.gov.in/"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-amritsar-q48403",
+   "category": "india",
+   "text": "How many people live in Amritsar, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1132383,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.13 million for Amritsar. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Amritsar holds about 0.08%.",
+    "1.46 billion × 0.08% ≈ 1.13 million."
+   ],
+   "fact": "Despite its size, Amritsar is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Amritsar (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q48403"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-visakhapatnam-q200016",
+   "category": "india",
+   "text": "How many people live in Visakhapatnam, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 2035922,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 2.04 million for Visakhapatnam. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Visakhapatnam holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 2.04 million."
+   ],
+   "fact": "Despite its size, Visakhapatnam is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Visakhapatnam (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200016"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "city-ludhiana-q200123",
+   "category": "india",
+   "text": "How many people live in Ludhiana, India? (Inside the city’s own limits, not the wider metro area.)",
+   "difficulty": "hard",
+   "answer": 1618879,
+   "unit": "people",
+   "kind": "fact",
+   "tolerance": 2,
+   "explanation": "Wikidata records a population of about 1.62 million for Ludhiana. City-limit counts vary by census and boundary, so the tolerance is generous.",
+   "reasoning": [
+    "India has about 1.46 billion people.",
+    "A major city usually holds somewhere between 1% and 20% of its country; Ludhiana holds about 0.1%.",
+    "1.46 billion × 0.1% ≈ 1.62 million."
+   ],
+   "fact": "Despite its size, Ludhiana is home to under 1% of India’s people.",
+   "sources": [
+    {
+     "label": "Wikidata: Ludhiana (population, P1082)",
+     "url": "https://www.wikidata.org/wiki/Q200123"
+    },
+    {
+     "label": "World Bank Open Data: Population, total",
+     "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=IND"
+    }
+   ],
+   "dailyEligible": false
+  }
+ ]
+}

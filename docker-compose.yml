@@ -1,0 +1,22 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: ballpark-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ballpark
+      POSTGRES_PASSWORD: ballpark
+      POSTGRES_DB: ballpark
+    ports:
+      - "5434:5432"
+    volumes:
+      - ballpark-data:/var/lib/postgresql/data
+      - ./docker/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ballpark -d ballpark"]
+      interval: 2s
+      timeout: 3s
+      retries: 20
+
+volumes:
+  ballpark-data:

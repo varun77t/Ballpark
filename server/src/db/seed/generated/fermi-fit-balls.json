@@ -1,0 +1,1601 @@
+{
+ "pack": {
+  "slug": "fermi-fit-balls",
+  "name": "How many fit: balls"
+ },
+ "questions": [
+  {
+   "slug": "fit-ping-pong-ball-in-bathtub",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside a standard bathtub?",
+   "difficulty": "easy",
+   "answer": 4202,
+   "low": 2311,
+   "high": 6092,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 4,202.",
+   "reasoning": [
+    "A bathtub holds about 220 litres to the rim (0.22 m³).",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.22 m³ × 0.64 ÷ 0.0000335 m³ ≈ 4,202."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-car-boot",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside a family car’s boot?",
+   "difficulty": "easy",
+   "answer": 8594,
+   "low": 4727,
+   "high": 12462,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 8,594.",
+   "reasoning": [
+    "A family hatchback’s boot is about 450 litres (0.45 m³).",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.45 m³ × 0.64 ÷ 0.0000335 m³ ≈ 8,594."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-elevator",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside a passenger lift?",
+   "difficulty": "medium",
+   "answer": 95493,
+   "low": 52521,
+   "high": 138465,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 95,493.",
+   "reasoning": [
+    "A passenger lift car is about 1.6 × 1.4 × 2.3 m ≈ 5 m³.",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "5 m³ × 0.64 ÷ 0.0000335 m³ ≈ 95,493."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-shipping-container",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside a 20-foot shipping container?",
+   "difficulty": "medium",
+   "answer": 634073,
+   "low": 507259,
+   "high": 760888,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 634,073.",
+   "reasoning": [
+    "A 20-foot container holds 33.2 m³ (ISO spec).",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "33.2 m³ × 0.64 ÷ 0.0000335 m³ ≈ 634,073."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-school-bus",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside a school bus?",
+   "difficulty": "medium",
+   "answer": 763944,
+   "low": 458366,
+   "high": 1069521,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 763,944.",
+   "reasoning": [
+    "A full-size school bus has about 10 × 2.3 × 1.9 m inside, minus seats ≈ 40 m³.",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "40 m³ × 0.64 ÷ 0.0000335 m³ ≈ 763,944."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-boeing-747",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside a Boeing 747?",
+   "difficulty": "medium",
+   "answer": 17188734,
+   "low": 9453804,
+   "high": 24923664,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 17.2 million.",
+   "reasoning": [
+    "A 747-400’s passenger cabin is roughly 70 × 6 × 2.5 m ≈ 900 m³ (cargo holds excluded).",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "900 m³ × 0.64 ÷ 0.0000335 m³ ≈ 17.2 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-olympic-pool",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside an Olympic swimming pool (2 m deep)?",
+   "difficulty": "hard",
+   "answer": 47746483,
+   "low": 38197186,
+   "high": 57295780,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 47.7 million.",
+   "reasoning": [
+    "An Olympic pool is 50 × 25 × 2 m = 2,500 m³.",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2,500 m³ × 0.64 ÷ 0.0000335 m³ ≈ 47.7 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-empire-state",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside the Empire State Building?",
+   "difficulty": "hard",
+   "answer": 19862536898,
+   "low": 13903775829,
+   "high": 25821297967,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 19.9 billion.",
+   "reasoning": [
+    "The Empire State Building encloses about 37 million cubic feet ≈ 1.04 million m³.",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "1.04 million m³ × 0.64 ÷ 0.0000335 m³ ≈ 19.9 billion."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-great-pyramid",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside the Great Pyramid of Giza?",
+   "difficulty": "hard",
+   "answer": 49274370381,
+   "low": 36955777786,
+   "high": 61592962977,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 49.3 billion.",
+   "reasoning": [
+    "The Great Pyramid’s volume is about 230² × 146 ÷ 3 ≈ 2.6 million m³.",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2.58 million m³ × 0.64 ÷ 0.0000335 m³ ≈ 49.3 billion."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-ping-pong-ball-in-moon",
+   "category": "sports",
+   "text": "How many ping-pong balls could you fit inside the Moon?",
+   "difficulty": "insane",
+   "answer": 4.193669088494205e+23,
+   "low": 3.354935270795364e+23,
+   "high": 5.032402906193046e+23,
+   "unit": "ping-pong balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each ping-pong ball really takes up (its own volume plus the gaps around it) ≈ 4.19 × 10^23.",
+   "reasoning": [
+    "The Moon’s volume is about 2.2 × 10¹⁹ m³ (radius 1,737 km).",
+    "A ping-pong ball is 40 mm across (ITTF rules): about 33.5 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "22 quintillion m³ × 0.64 ÷ 0.0000335 m³ ≈ 4.19 × 10^23."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-bathtub",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside a standard bathtub?",
+   "difficulty": "easy",
+   "answer": 3461,
+   "low": 1904,
+   "high": 5019,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 3,461.",
+   "reasoning": [
+    "A bathtub holds about 220 litres to the rim (0.22 m³).",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.22 m³ × 0.64 ÷ 0.0000407 m³ ≈ 3,461."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-car-boot",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside a family car’s boot?",
+   "difficulty": "easy",
+   "answer": 7080,
+   "low": 3894,
+   "high": 10266,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 7,080.",
+   "reasoning": [
+    "A family hatchback’s boot is about 450 litres (0.45 m³).",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.45 m³ × 0.64 ÷ 0.0000407 m³ ≈ 7,080."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-elevator",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside a passenger lift?",
+   "difficulty": "medium",
+   "answer": 78665,
+   "low": 43266,
+   "high": 114065,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 78,665.",
+   "reasoning": [
+    "A passenger lift car is about 1.6 × 1.4 × 2.3 m ≈ 5 m³.",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "5 m³ × 0.64 ÷ 0.0000407 m³ ≈ 78,665."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-shipping-container",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside a 20-foot shipping container?",
+   "difficulty": "medium",
+   "answer": 522338,
+   "low": 417870,
+   "high": 626805,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 522,338.",
+   "reasoning": [
+    "A 20-foot container holds 33.2 m³ (ISO spec).",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "33.2 m³ × 0.64 ÷ 0.0000407 m³ ≈ 522,338."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-school-bus",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside a school bus?",
+   "difficulty": "medium",
+   "answer": 629323,
+   "low": 377594,
+   "high": 881052,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 629,323.",
+   "reasoning": [
+    "A full-size school bus has about 10 × 2.3 × 1.9 m inside, minus seats ≈ 40 m³.",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "40 m³ × 0.64 ÷ 0.0000407 m³ ≈ 629,323."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-boeing-747",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside a Boeing 747?",
+   "difficulty": "medium",
+   "answer": 14159761,
+   "low": 7787869,
+   "high": 20531654,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 14.2 million.",
+   "reasoning": [
+    "A 747-400’s passenger cabin is roughly 70 × 6 × 2.5 m ≈ 900 m³ (cargo holds excluded).",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "900 m³ × 0.64 ÷ 0.0000407 m³ ≈ 14.2 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-olympic-pool",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside an Olympic swimming pool (2 m deep)?",
+   "difficulty": "hard",
+   "answer": 39332670,
+   "low": 31466136,
+   "high": 47199204,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 39.3 million.",
+   "reasoning": [
+    "An Olympic pool is 50 × 25 × 2 m = 2,500 m³.",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2,500 m³ × 0.64 ÷ 0.0000407 m³ ≈ 39.3 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-empire-state",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside the Empire State Building?",
+   "difficulty": "hard",
+   "answer": 16362390847,
+   "low": 11453673593,
+   "high": 21271108101,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 16.4 billion.",
+   "reasoning": [
+    "The Empire State Building encloses about 37 million cubic feet ≈ 1.04 million m³.",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "1.04 million m³ × 0.64 ÷ 0.0000407 m³ ≈ 16.4 billion."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-great-pyramid",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside the Great Pyramid of Giza?",
+   "difficulty": "hard",
+   "answer": 40591315754,
+   "low": 30443486816,
+   "high": 50739144693,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 40.6 billion.",
+   "reasoning": [
+    "The Great Pyramid’s volume is about 230² × 146 ÷ 3 ≈ 2.6 million m³.",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2.58 million m³ × 0.64 ÷ 0.0000407 m³ ≈ 40.6 billion."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-golf-ball-in-moon",
+   "category": "sports",
+   "text": "How many golf balls could you fit inside the Moon?",
+   "difficulty": "insane",
+   "answer": 3.454667098180398e+23,
+   "low": 2.7637336785443187e+23,
+   "high": 4.145600517816478e+23,
+   "unit": "golf balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each golf ball really takes up (its own volume plus the gaps around it) ≈ 3.45 × 10^23.",
+   "reasoning": [
+    "The Moon’s volume is about 2.2 × 10¹⁹ m³ (radius 1,737 km).",
+    "A golf ball is 42.7 mm across (R&A rules): about 40.7 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "22 quintillion m³ × 0.64 ÷ 0.0000407 m³ ≈ 3.45 × 10^23."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-bathtub",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside a standard bathtub?",
+   "difficulty": "easy",
+   "answer": 894,
+   "low": 492,
+   "high": 1296,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 894.",
+   "reasoning": [
+    "A bathtub holds about 220 litres to the rim (0.22 m³).",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.22 m³ × 0.64 ÷ 0.000157 m³ ≈ 894."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-car-boot",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside a family car’s boot?",
+   "difficulty": "easy",
+   "answer": 1829,
+   "low": 1006,
+   "high": 2652,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 1,829.",
+   "reasoning": [
+    "A family hatchback’s boot is about 450 litres (0.45 m³).",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.45 m³ × 0.64 ÷ 0.000157 m³ ≈ 1,829."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-elevator",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside a passenger lift?",
+   "difficulty": "medium",
+   "answer": 20320,
+   "low": 11176,
+   "high": 29464,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 20,320.",
+   "reasoning": [
+    "A passenger lift car is about 1.6 × 1.4 × 2.3 m ≈ 5 m³.",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "5 m³ × 0.64 ÷ 0.000157 m³ ≈ 20,320."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-shipping-container",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside a 20-foot shipping container?",
+   "difficulty": "medium",
+   "answer": 134926,
+   "low": 107941,
+   "high": 161911,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 134,926.",
+   "reasoning": [
+    "A 20-foot container holds 33.2 m³ (ISO spec).",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "33.2 m³ × 0.64 ÷ 0.000157 m³ ≈ 134,926."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-school-bus",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside a school bus?",
+   "difficulty": "medium",
+   "answer": 162561,
+   "low": 97537,
+   "high": 227586,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 162,561.",
+   "reasoning": [
+    "A full-size school bus has about 10 × 2.3 × 1.9 m inside, minus seats ≈ 40 m³.",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "40 m³ × 0.64 ÷ 0.000157 m³ ≈ 162,561."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-boeing-747",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside a Boeing 747?",
+   "difficulty": "medium",
+   "answer": 3657627,
+   "low": 2011695,
+   "high": 5303560,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 3.66 million.",
+   "reasoning": [
+    "A 747-400’s passenger cabin is roughly 70 × 6 × 2.5 m ≈ 900 m³ (cargo holds excluded).",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "900 m³ × 0.64 ÷ 0.000157 m³ ≈ 3.66 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-olympic-pool",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside an Olympic swimming pool (2 m deep)?",
+   "difficulty": "medium",
+   "answer": 10160076,
+   "low": 8128061,
+   "high": 12192091,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 10.2 million.",
+   "reasoning": [
+    "An Olympic pool is 50 × 25 × 2 m = 2,500 m³.",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2,500 m³ × 0.64 ÷ 0.000157 m³ ≈ 10.2 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-empire-state",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside the Empire State Building?",
+   "difficulty": "hard",
+   "answer": 4226591574,
+   "low": 2958614102,
+   "high": 5494569046,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 4.23 billion.",
+   "reasoning": [
+    "The Empire State Building encloses about 37 million cubic feet ≈ 1.04 million m³.",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "1.04 million m³ × 0.64 ÷ 0.000157 m³ ≈ 4.23 billion."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-great-pyramid",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside the Great Pyramid of Giza?",
+   "difficulty": "hard",
+   "answer": 10485198327,
+   "low": 7863898745,
+   "high": 13106497909,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 10.5 billion.",
+   "reasoning": [
+    "The Great Pyramid’s volume is about 230² × 146 ÷ 3 ≈ 2.6 million m³.",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2.58 million m³ × 0.64 ÷ 0.000157 m³ ≈ 10.5 billion."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-tennis-ball-in-moon",
+   "category": "sports",
+   "text": "How many tennis balls could you fit inside the Moon?",
+   "difficulty": "insane",
+   "answer": 8.923797862889689e+22,
+   "low": 7.139038290311751e+22,
+   "high": 1.0708557435467627e+23,
+   "unit": "tennis balls",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each tennis ball really takes up (its own volume plus the gaps around it) ≈ 8.92 × 10^22.",
+   "reasoning": [
+    "The Moon’s volume is about 2.2 × 10¹⁹ m³ (radius 1,737 km).",
+    "A tennis ball is about 6.7 cm across (ITF rules): about 157 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "22 quintillion m³ × 0.64 ÷ 0.000157 m³ ≈ 8.92 × 10^22."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-bathtub",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside a standard bathtub?",
+   "difficulty": "easy",
+   "answer": 664,
+   "low": 365,
+   "high": 962,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 664.",
+   "reasoning": [
+    "A bathtub holds about 220 litres to the rim (0.22 m³).",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.22 m³ × 0.64 ÷ 0.000212 m³ ≈ 664."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-car-boot",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside a family car’s boot?",
+   "difficulty": "easy",
+   "answer": 1357,
+   "low": 747,
+   "high": 1968,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 1,357.",
+   "reasoning": [
+    "A family hatchback’s boot is about 450 litres (0.45 m³).",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.45 m³ × 0.64 ÷ 0.000212 m³ ≈ 1,357."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-elevator",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside a passenger lift?",
+   "difficulty": "easy",
+   "answer": 15082,
+   "low": 8295,
+   "high": 21869,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 15,082.",
+   "reasoning": [
+    "A passenger lift car is about 1.6 × 1.4 × 2.3 m ≈ 5 m³.",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "5 m³ × 0.64 ÷ 0.000212 m³ ≈ 15,082."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-shipping-container",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside a 20-foot shipping container?",
+   "difficulty": "medium",
+   "answer": 100144,
+   "low": 80115,
+   "high": 120173,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 100,144.",
+   "reasoning": [
+    "A 20-foot container holds 33.2 m³ (ISO spec).",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "33.2 m³ × 0.64 ÷ 0.000212 m³ ≈ 100,144."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-school-bus",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside a school bus?",
+   "difficulty": "medium",
+   "answer": 120655,
+   "low": 72393,
+   "high": 168917,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 120,655.",
+   "reasoning": [
+    "A full-size school bus has about 10 × 2.3 × 1.9 m inside, minus seats ≈ 40 m³.",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "40 m³ × 0.64 ÷ 0.000212 m³ ≈ 120,655."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-boeing-747",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside a Boeing 747?",
+   "difficulty": "medium",
+   "answer": 2714743,
+   "low": 1493109,
+   "high": 3936377,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 2.71 million.",
+   "reasoning": [
+    "A 747-400’s passenger cabin is roughly 70 × 6 × 2.5 m ≈ 900 m³ (cargo holds excluded).",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "900 m³ × 0.64 ÷ 0.000212 m³ ≈ 2.71 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-olympic-pool",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside an Olympic swimming pool (2 m deep)?",
+   "difficulty": "medium",
+   "answer": 7540952,
+   "low": 6032762,
+   "high": 9049143,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 7.54 million.",
+   "reasoning": [
+    "An Olympic pool is 50 × 25 × 2 m = 2,500 m³.",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2,500 m³ × 0.64 ÷ 0.000212 m³ ≈ 7.54 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-empire-state",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside the Empire State Building?",
+   "difficulty": "hard",
+   "answer": 3137036211,
+   "low": 2195925348,
+   "high": 4078147074,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 3.14 billion.",
+   "reasoning": [
+    "The Empire State Building encloses about 37 million cubic feet ≈ 1.04 million m³.",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "1.04 million m³ × 0.64 ÷ 0.000212 m³ ≈ 3.14 billion."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-great-pyramid",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside the Great Pyramid of Giza?",
+   "difficulty": "hard",
+   "answer": 7782262907,
+   "low": 5836697181,
+   "high": 9727828634,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 7.78 billion.",
+   "reasoning": [
+    "The Great Pyramid’s volume is about 230² × 146 ÷ 3 ≈ 2.6 million m³.",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2.58 million m³ × 0.64 ÷ 0.000212 m³ ≈ 7.78 billion."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-baseball-in-moon",
+   "category": "sports",
+   "text": "How many baseballs could you fit inside the Moon?",
+   "difficulty": "insane",
+   "answer": 6.623369338035981e+22,
+   "low": 5.298695470428785e+22,
+   "high": 7.948043205643176e+22,
+   "unit": "baseballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each baseball really takes up (its own volume plus the gaps around it) ≈ 6.62 × 10^22.",
+   "reasoning": [
+    "The Moon’s volume is about 2.2 × 10¹⁹ m³ (radius 1,737 km).",
+    "A baseball is about 7.4 cm across: about 212 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "22 quintillion m³ × 0.64 ÷ 0.000212 m³ ≈ 6.62 × 10^22."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-bathtub",
+   "category": "sports",
+   "text": "How many footballs could you fit inside a standard bathtub?",
+   "difficulty": "easy",
+   "answer": 25,
+   "low": 14,
+   "high": 37,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 25.3.",
+   "reasoning": [
+    "A bathtub holds about 220 litres to the rim (0.22 m³).",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.22 m³ × 0.64 ÷ 0.00558 m³ ≈ 25.3."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-car-boot",
+   "category": "sports",
+   "text": "How many footballs could you fit inside a family car’s boot?",
+   "difficulty": "easy",
+   "answer": 52,
+   "low": 28,
+   "high": 75,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 51.7.",
+   "reasoning": [
+    "A family hatchback’s boot is about 450 litres (0.45 m³).",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.45 m³ × 0.64 ÷ 0.00558 m³ ≈ 51.7."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-elevator",
+   "category": "sports",
+   "text": "How many footballs could you fit inside a passenger lift?",
+   "difficulty": "easy",
+   "answer": 574,
+   "low": 316,
+   "high": 832,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 574.",
+   "reasoning": [
+    "A passenger lift car is about 1.6 × 1.4 × 2.3 m ≈ 5 m³.",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "5 m³ × 0.64 ÷ 0.00558 m³ ≈ 574."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-shipping-container",
+   "category": "sports",
+   "text": "How many footballs could you fit inside a 20-foot shipping container?",
+   "difficulty": "easy",
+   "answer": 3811,
+   "low": 3049,
+   "high": 4573,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 3,811.",
+   "reasoning": [
+    "A 20-foot container holds 33.2 m³ (ISO spec).",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "33.2 m³ × 0.64 ÷ 0.00558 m³ ≈ 3,811."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-school-bus",
+   "category": "sports",
+   "text": "How many footballs could you fit inside a school bus?",
+   "difficulty": "easy",
+   "answer": 4592,
+   "low": 2755,
+   "high": 6428,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 4,592.",
+   "reasoning": [
+    "A full-size school bus has about 10 × 2.3 × 1.9 m inside, minus seats ≈ 40 m³.",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "40 m³ × 0.64 ÷ 0.00558 m³ ≈ 4,592."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-boeing-747",
+   "category": "sports",
+   "text": "How many footballs could you fit inside a Boeing 747?",
+   "difficulty": "medium",
+   "answer": 103313,
+   "low": 56822,
+   "high": 149804,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 103,313.",
+   "reasoning": [
+    "A 747-400’s passenger cabin is roughly 70 × 6 × 2.5 m ≈ 900 m³ (cargo holds excluded).",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "900 m³ × 0.64 ÷ 0.00558 m³ ≈ 103,313."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-olympic-pool",
+   "category": "sports",
+   "text": "How many footballs could you fit inside an Olympic swimming pool (2 m deep)?",
+   "difficulty": "medium",
+   "answer": 286981,
+   "low": 229585,
+   "high": 344377,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 286,981.",
+   "reasoning": [
+    "An Olympic pool is 50 × 25 × 2 m = 2,500 m³.",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2,500 m³ × 0.64 ÷ 0.00558 m³ ≈ 286,981."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-empire-state",
+   "category": "sports",
+   "text": "How many footballs could you fit inside the Empire State Building?",
+   "difficulty": "hard",
+   "answer": 119384144,
+   "low": 83568901,
+   "high": 155199387,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 119 million.",
+   "reasoning": [
+    "The Empire State Building encloses about 37 million cubic feet ≈ 1.04 million m³.",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "1.04 million m³ × 0.64 ÷ 0.00558 m³ ≈ 119 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-great-pyramid",
+   "category": "sports",
+   "text": "How many footballs could you fit inside the Great Pyramid of Giza?",
+   "difficulty": "hard",
+   "answer": 296164510,
+   "low": 222123383,
+   "high": 370205638,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 296 million.",
+   "reasoning": [
+    "The Great Pyramid’s volume is about 230² × 146 ÷ 3 ≈ 2.6 million m³.",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2.58 million m³ × 0.64 ÷ 0.00558 m³ ≈ 296 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-football-in-moon",
+   "category": "sports",
+   "text": "How many footballs could you fit inside the Moon?",
+   "difficulty": "insane",
+   "answer": 2.5206125250153e+21,
+   "low": 2.0164900200122401e+21,
+   "high": 3.02473503001836e+21,
+   "unit": "footballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each football (size 5) really takes up (its own volume plus the gaps around it) ≈ 2.52 × 10^21.",
+   "reasoning": [
+    "The Moon’s volume is about 2.2 × 10¹⁹ m³ (radius 1,737 km).",
+    "A size-5 football is about 22 cm across: about 5,575 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "22 quintillion m³ × 0.64 ÷ 0.00558 m³ ≈ 2.52 × 10^21."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-car-boot",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside a family car’s boot?",
+   "difficulty": "easy",
+   "answer": 38,
+   "low": 21,
+   "high": 56,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 38.3.",
+   "reasoning": [
+    "A family hatchback’s boot is about 450 litres (0.45 m³).",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "0.45 m³ × 0.64 ÷ 0.00751 m³ ≈ 38.3."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-elevator",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside a passenger lift?",
+   "difficulty": "easy",
+   "answer": 426,
+   "low": 234,
+   "high": 618,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 426.",
+   "reasoning": [
+    "A passenger lift car is about 1.6 × 1.4 × 2.3 m ≈ 5 m³.",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "5 m³ × 0.64 ÷ 0.00751 m³ ≈ 426."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-shipping-container",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside a 20-foot shipping container?",
+   "difficulty": "easy",
+   "answer": 2828,
+   "low": 2263,
+   "high": 3394,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 2,828.",
+   "reasoning": [
+    "A 20-foot container holds 33.2 m³ (ISO spec).",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "33.2 m³ × 0.64 ÷ 0.00751 m³ ≈ 2,828."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-school-bus",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside a school bus?",
+   "difficulty": "easy",
+   "answer": 3407,
+   "low": 2044,
+   "high": 4770,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 1.5,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 3,407.",
+   "reasoning": [
+    "A full-size school bus has about 10 × 2.3 × 1.9 m inside, minus seats ≈ 40 m³.",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "40 m³ × 0.64 ÷ 0.00751 m³ ≈ 3,407."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-boeing-747",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside a Boeing 747?",
+   "difficulty": "medium",
+   "answer": 76666,
+   "low": 42167,
+   "high": 111166,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 76,666.",
+   "reasoning": [
+    "A 747-400’s passenger cabin is roughly 70 × 6 × 2.5 m ≈ 900 m³ (cargo holds excluded).",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "900 m³ × 0.64 ÷ 0.00751 m³ ≈ 76,666."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-olympic-pool",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside an Olympic swimming pool (2 m deep)?",
+   "difficulty": "medium",
+   "answer": 212962,
+   "low": 170370,
+   "high": 255555,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 212,962.",
+   "reasoning": [
+    "An Olympic pool is 50 × 25 × 2 m = 2,500 m³.",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2,500 m³ × 0.64 ÷ 0.00751 m³ ≈ 212,962."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-empire-state",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside the Empire State Building?",
+   "difficulty": "hard",
+   "answer": 88592278,
+   "low": 62014595,
+   "high": 115169962,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 88.6 million.",
+   "reasoning": [
+    "The Empire State Building encloses about 37 million cubic feet ≈ 1.04 million m³.",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "1.04 million m³ × 0.64 ÷ 0.00751 m³ ≈ 88.6 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-great-pyramid",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside the Great Pyramid of Giza?",
+   "difficulty": "hard",
+   "answer": 219776998,
+   "low": 164832748,
+   "high": 274721247,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 220 million.",
+   "reasoning": [
+    "The Great Pyramid’s volume is about 230² × 146 ÷ 3 ≈ 2.6 million m³.",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "2.58 million m³ × 0.64 ÷ 0.00751 m³ ≈ 220 million."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  },
+  {
+   "slug": "fit-basketball-in-moon",
+   "category": "sports",
+   "text": "How many basketballs could you fit inside the Moon?",
+   "difficulty": "insane",
+   "answer": 1.8704896593422008e+21,
+   "low": 1.4963917274737607e+21,
+   "high": 2.2445875912106409e+21,
+   "unit": "basketballs",
+   "kind": "estimate",
+   "tolerance": 2,
+   "explanation": "Usable volume ÷ the space each basketball really takes up (its own volume plus the gaps around it) ≈ 1.87 × 10^21.",
+   "reasoning": [
+    "The Moon’s volume is about 2.2 × 10¹⁹ m³ (radius 1,737 km).",
+    "A size-7 basketball is about 24.3 cm across: about 7,513 cm³ each.",
+    "They fill only about 64% of the space; the rest is gaps.",
+    "22 quintillion m³ × 0.64 ÷ 0.00751 m³ ≈ 1.87 × 10^21."
+   ],
+   "fact": "Randomly poured balls fill about 64% of a space; even the best possible arrangement only reaches 74%, as Kepler guessed and a computer proof confirmed in 1998.",
+   "sources": [
+    {
+     "label": "Computed estimate from stated dimensions; packing fractions from Wikipedia: Sphere packing",
+     "url": "https://en.wikipedia.org/wiki/Sphere_packing"
+    }
+   ],
+   "dailyEligible": true
+  }
+ ]
+}

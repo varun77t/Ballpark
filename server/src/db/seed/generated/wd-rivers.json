@@ -1,0 +1,2360 @@
+{
+ "pack": {
+  "slug": "wd-rivers",
+  "name": "Rivers: length"
+ },
+ "questions": [
+  {
+   "slug": "river-amazon-river-q3783",
+   "category": "geography",
+   "text": "How long is the Amazon River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 6992,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Amazon River at about 6,992 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 6,992 km."
+   ],
+   "fact": "Laid along the equator it would stretch 17.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Amazon River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q3783"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-nile-q3392",
+   "category": "geography",
+   "text": "How long is the Nile river, in kilometres?",
+   "difficulty": "medium",
+   "answer": 6650,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Nile river at about 6,650 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 6,650 km."
+   ],
+   "fact": "Laid along the equator it would stretch 16.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Nile (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q3392"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-yangtze-river-q5413",
+   "category": "geography",
+   "text": "How long is the Yangtze River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 6300,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Yangtze River at about 6,300 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 6,300 km."
+   ],
+   "fact": "Laid along the equator it would stretch 15.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Yangtze River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q5413"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-yellow-river-q7355",
+   "category": "geography",
+   "text": "How long is the Yellow River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 5464,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Yellow River at about 5,464 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 5,464 km."
+   ],
+   "fact": "Laid along the equator it would stretch 13.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Yellow River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q7355"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-parana-river-q127892",
+   "category": "geography",
+   "text": "How long is the Paraná River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 4880,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Paraná River at about 4,880 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 4,880 km."
+   ],
+   "fact": "Laid along the equator it would stretch 12.2% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Paraná River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q127892"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-congo-river-q3503",
+   "category": "geography",
+   "text": "How long is the Congo River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 4700,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Congo River at about 4,700 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 4,700 km."
+   ],
+   "fact": "Laid along the equator it would stretch 11.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Congo River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q3503"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-mekong-river-q41179",
+   "category": "geography",
+   "text": "How long is the Mekong River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 4350,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Mekong River at about 4,350 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 4,350 km."
+   ],
+   "fact": "Laid along the equator it would stretch 10.9% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Mekong River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q41179"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-lena-river-q46841",
+   "category": "geography",
+   "text": "How long is the Lena River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 4294,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Lena River at about 4,294 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 4,294 km."
+   ],
+   "fact": "Laid along the equator it would stretch 10.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Lena River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q46841"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-irtysh-q128102",
+   "category": "geography",
+   "text": "How long is the Irtysh river, in kilometres?",
+   "difficulty": "medium",
+   "answer": 4248,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Irtysh river at about 4,248 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 4,248 km."
+   ],
+   "fact": "Laid along the equator it would stretch 10.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Irtysh (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q128102"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-niger-river-q3542",
+   "category": "geography",
+   "text": "How long is the Niger River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 4180,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Niger River at about 4,180 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 4,180 km."
+   ],
+   "fact": "Laid along the equator it would stretch 10.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Niger River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q3542"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-mississippi-river-q1497",
+   "category": "geography",
+   "text": "How long is the Mississippi River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 3766,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Mississippi River at about 3,766 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,766 km."
+   ],
+   "fact": "Laid along the equator it would stretch 9.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Mississippi River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q1497"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-missouri-river-q5419",
+   "category": "geography",
+   "text": "How long is the Missouri River, in kilometres?",
+   "difficulty": "medium",
+   "answer": 3726,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Missouri River at about 3,726 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,726 km."
+   ],
+   "fact": "Laid along the equator it would stretch 9.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Missouri River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q5419"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-ob-q973",
+   "category": "geography",
+   "text": "How long is the Ob river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 3650,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Ob river at about 3,650 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,650 km."
+   ],
+   "fact": "Laid along the equator it would stretch 9.1% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Ob (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q973"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-volga-q626",
+   "category": "geography",
+   "text": "How long is the Volga river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 3530,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Volga river at about 3,530 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,530 km."
+   ],
+   "fact": "Laid along the equator it would stretch 8.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Volga (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q626"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-yenisei-q78707",
+   "category": "geography",
+   "text": "How long is the Yenisei river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 3487,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Yenisei river at about 3,487 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,487 km."
+   ],
+   "fact": "Laid along the equator it would stretch 8.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Yenisei (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q78707"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-yukon-river-q104437",
+   "category": "geography",
+   "text": "How long is the Yukon River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 3190,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Yukon River at about 3,190 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,190 km."
+   ],
+   "fact": "Laid along the equator it would stretch 8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Yukon River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q104437"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-indus-river-q7348",
+   "category": "geography",
+   "text": "How long is the Indus River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 3180,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Indus River at about 3,180 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,180 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7.9% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Indus River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q7348"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-jurua-river-q117526",
+   "category": "geography",
+   "text": "How long is the Juruá River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 3100,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Juruá River at about 3,100 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,100 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Juruá River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q117526"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-st-lawrence-river-q134750",
+   "category": "geography",
+   "text": "How long is the St. Lawrence River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 3058,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the St. Lawrence River at about 3,058 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,058 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: St. Lawrence River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q134750"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-rio-grande-q160636",
+   "category": "geography",
+   "text": "How long is the Rio Grande river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 3051,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Rio Grande river at about 3,051 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 3,051 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Rio Grande (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q160636"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-nizhnyaya-tunguska-q26428",
+   "category": "geography",
+   "text": "How long is the Nizhnyaya Tunguska river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2989,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Nizhnyaya Tunguska river at about 2,989 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,989 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Nizhnyaya Tunguska (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26428"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-purus-river-q26271",
+   "category": "geography",
+   "text": "How long is the Purus River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2960,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Purus River at about 2,960 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,960 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Purus River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26271"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-brahmaputra-river-q45403",
+   "category": "geography",
+   "text": "How long is the Brahmaputra River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2900,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Brahmaputra River at about 2,900 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,900 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7.2% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Brahmaputra River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q45403"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-danube-q1653",
+   "category": "geography",
+   "text": "How long is the Danube river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2850,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Danube river at about 2,850 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,850 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7.1% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Danube (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q1653"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-amur-river-q6862",
+   "category": "geography",
+   "text": "How long is the Amur River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2824,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Amur River at about 2,824 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,824 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Amur River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q6862"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-japura-river-q171840",
+   "category": "geography",
+   "text": "How long is the Japurá River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2820,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Japurá River at about 2,820 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,820 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Japurá River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q171840"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-salween-river-q26422",
+   "category": "geography",
+   "text": "How long is the Salween River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2815,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Salween River at about 2,815 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,815 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Salween River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26422"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-sao-francisco-river-q142148",
+   "category": "geography",
+   "text": "How long is the São Francisco River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2814,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the São Francisco River at about 2,814 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,814 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: São Francisco River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q142148"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-euphrates-q34589",
+   "category": "geography",
+   "text": "How long is the Euphrates river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2800,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Euphrates river at about 2,800 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,800 km."
+   ],
+   "fact": "Laid along the equator it would stretch 7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Euphrates (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q34589"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-fraser-river-q269710",
+   "category": "geography",
+   "text": "How long is the Fraser River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2657,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Fraser River at about 2,657 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,657 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Fraser River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q269710"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-vilyuy-q26433",
+   "category": "geography",
+   "text": "How long is the Vilyuy river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2650,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Vilyuy river at about 2,650 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,650 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Vilyuy (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26433"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-paraguay-river-q179396",
+   "category": "geography",
+   "text": "How long is the Paraguay River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2621,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Paraguay River at about 2,621 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,621 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Paraguay River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q179396"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-amu-darya-q8493",
+   "category": "geography",
+   "text": "How long is the Amu Darya river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2620,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Amu Darya river at about 2,620 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,620 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Amu Darya (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q8493"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-white-nile-q4814791",
+   "category": "geography",
+   "text": "How long is the White Nile river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2620,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the White Nile river at about 2,620 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,620 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: White Nile (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q4814791"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-murray-river-q183078",
+   "category": "geography",
+   "text": "How long is the Murray River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2530,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Murray River at about 2,530 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,530 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Murray River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q183078"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-ganges-q5089",
+   "category": "geography",
+   "text": "How long is the Ganges river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2525,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Ganges river at about 2,525 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,525 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Ganges (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q5089"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-tocantins-river-q156054",
+   "category": "geography",
+   "text": "How long is the Tocantins River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2450,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Tocantins River at about 2,450 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,450 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.1% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Tocantins River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q156054"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-ishim-q191524",
+   "category": "geography",
+   "text": "How long is the Ishim river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2450,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Ishim river at about 2,450 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,450 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.1% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Ishim (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q191524"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-ural-q80240",
+   "category": "geography",
+   "text": "How long is the Ural river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2428,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Ural river at about 2,428 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,428 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6.1% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Ural (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q80240"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-pearl-river-q201463",
+   "category": "geography",
+   "text": "How long is the Pearl River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2400,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Pearl River at about 2,400 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,400 km."
+   ],
+   "fact": "Laid along the equator it would stretch 6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Pearl River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q201463"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-arkansas-river-q8319",
+   "category": "geography",
+   "text": "How long is the Arkansas River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2364,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Arkansas River at about 2,364 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,364 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.9% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Arkansas River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q8319"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-colorado-river-q1265",
+   "category": "geography",
+   "text": "How long is the Colorado River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2334,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Colorado River at about 2,334 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,334 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Colorado River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q1265"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-dnieper-q40855",
+   "category": "geography",
+   "text": "How long is the Dnieper river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2285,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Dnieper river at about 2,285 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,285 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Dnieper (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q40855"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-aldan-q191832",
+   "category": "geography",
+   "text": "How long is the Aldan river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2273,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Aldan river at about 2,273 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,273 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Aldan (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q191832"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-kasai-river-q186541",
+   "category": "geography",
+   "text": "How long is the Kasai River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2272,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Kasai River at about 2,272 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,272 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Kasai River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q186541"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-olenyok-q26799",
+   "category": "geography",
+   "text": "How long is the Olenyok river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2270,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Olenyok river at about 2,270 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,270 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Olenyok (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26799"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-rio-negro-q118771",
+   "category": "geography",
+   "text": "How long is the Rio Negro river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2250,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Rio Negro river at about 2,250 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,250 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Rio Negro (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q118771"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-syr-darya-q483159",
+   "category": "geography",
+   "text": "How long is the Syr Darya river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2212,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Syr Darya river at about 2,212 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,212 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Syr Darya (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q483159"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-orange-river-q181475",
+   "category": "geography",
+   "text": "How long is the Orange River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2200,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Orange River at about 2,200 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,200 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Orange River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q181475"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-xi-river-q216941",
+   "category": "geography",
+   "text": "How long is the Xi River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2197,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Xi River at about 2,197 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,197 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Xi River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q216941"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-red-river-q156032",
+   "category": "geography",
+   "text": "How long is the Red River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2189,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Red River at about 2,189 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,189 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Red River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q156032"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-irrawaddy-river-q26076",
+   "category": "geography",
+   "text": "How long is the Irrawaddy River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2170,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Irrawaddy River at about 2,170 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,170 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Irrawaddy River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26076"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-orinoco-river-q131792",
+   "category": "geography",
+   "text": "How long is the Orinoco River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2140,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Orinoco River at about 2,140 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,140 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Orinoco River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q131792"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-kolyma-q78879",
+   "category": "geography",
+   "text": "How long is the Kolyma river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2129,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Kolyma river at about 2,129 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,129 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Kolyma (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q78879"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-tarim-river-q237901",
+   "category": "geography",
+   "text": "How long is the Tarim River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2030,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Tarim River at about 2,030 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,030 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5.1% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Tarim River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q237901"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-columbia-river-q2251",
+   "category": "geography",
+   "text": "How long is the Columbia River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 2000,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Columbia River at about 2,000 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 2,000 km."
+   ],
+   "fact": "Laid along the equator it would stretch 5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Columbia River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q2251"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-chenab-river-q216875",
+   "category": "geography",
+   "text": "How long is the Chenab River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1974,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Chenab River at about 1,974 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,974 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.9% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Chenab River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q216875"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-mamore-river-q117615",
+   "category": "geography",
+   "text": "How long is the Mamoré River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1930,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Mamoré River at about 1,930 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,930 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Mamoré River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q117615"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-tapajos-river-q752674",
+   "category": "geography",
+   "text": "How long is the Tapajós River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1930,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Tapajós River at about 1,930 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,930 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Tapajós River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q752674"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-peace-river-q2220",
+   "category": "geography",
+   "text": "How long is the Peace River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1923,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Peace River at about 1,923 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,923 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Peace River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q2220"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-araguaia-river-q171847",
+   "category": "geography",
+   "text": "How long is the Araguaia River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1910,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Araguaia River at about 1,910 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,910 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Araguaia River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q171847"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-don-q1229",
+   "category": "geography",
+   "text": "How long is the Don river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1870,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Don river at about 1,870 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,870 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Don (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q1229"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-podkamennaya-tunguska-q26361",
+   "category": "geography",
+   "text": "How long is the Podkamennaya Tunguska river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1865,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Podkamennaya Tunguska river at about 1,865 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,865 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Podkamennaya Tunguska (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26361"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-tigris-q35591",
+   "category": "geography",
+   "text": "How long is the Tigris river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1850,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Tigris river at about 1,850 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,850 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Tigris (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q35591"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-vitim-q26068",
+   "category": "geography",
+   "text": "How long is the Vitim river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1837,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Vitim river at about 1,837 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,837 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.6% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Vitim (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26068"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-pechora-q8168",
+   "category": "geography",
+   "text": "How long is the Pechora river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1809,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Pechora river at about 1,809 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,809 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Pechora (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q8168"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-kama-q79082",
+   "category": "geography",
+   "text": "How long is the Kama river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1805,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Kama river at about 1,805 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,805 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Kama (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q79082"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-chulym-q214768",
+   "category": "geography",
+   "text": "How long is the Chulym river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1799,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Chulym river at about 1,799 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,799 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Chulym (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q214768"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-uruguay-river-q18278",
+   "category": "geography",
+   "text": "How long is the Uruguay River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1790,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Uruguay River at about 1,790 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,790 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.5% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Uruguay River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q18278"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-blue-nile-q882739",
+   "category": "geography",
+   "text": "How long is the Blue Nile river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1783,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Blue Nile river at about 1,783 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,783 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Blue Nile (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q882739"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-angara-q162737",
+   "category": "geography",
+   "text": "How long is the Angara river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1779,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Angara river at about 1,779 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,779 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Angara (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q162737"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-kwango-river-q732790",
+   "category": "geography",
+   "text": "How long is the Kwango River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1770,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Kwango River at about 1,770 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,770 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Kwango River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q732790"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-limpopo-river-q173017",
+   "category": "geography",
+   "text": "How long is the Limpopo River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1750,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Limpopo River at about 1,750 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,750 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Limpopo River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q173017"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-mackenzie-river-q3411",
+   "category": "geography",
+   "text": "How long is the Mackenzie River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1738,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Mackenzie River at about 1,738 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,738 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Mackenzie River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q3411"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-maranon-river-q200174",
+   "category": "geography",
+   "text": "How long is the Marañón River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1737,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Marañón River at about 1,737 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,737 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Marañón River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q200174"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-snake-river-q272074",
+   "category": "geography",
+   "text": "How long is the Snake River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1735,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Snake River at about 1,735 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,735 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Snake River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q272074"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-indigirka-q82207",
+   "category": "geography",
+   "text": "How long is the Indigirka river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1726,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Indigirka river at about 1,726 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,726 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.3% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Indigirka (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q82207"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-itonomas-river-q1451369",
+   "category": "geography",
+   "text": "How long is the Itonomas River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1700,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Itonomas River at about 1,700 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,700 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.2% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Itonomas River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q1451369"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-jubba-river-q138491",
+   "category": "geography",
+   "text": "How long is the Jubba River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1658,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Jubba River at about 1,658 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,658 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.1% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Jubba River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q138491"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-xingu-river-q49544",
+   "category": "geography",
+   "text": "How long is the Xingu River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1640,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Xingu River at about 1,640 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,640 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4.1% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Xingu River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q49544"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-ket-q724465",
+   "category": "geography",
+   "text": "How long is the Ket river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1621,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Ket river at about 1,621 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,621 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Ket (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q724465"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-argun-river-q26439",
+   "category": "geography",
+   "text": "How long is the Argun River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1620,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Argun River at about 1,620 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,620 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Argun River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q26439"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-putumayo-river-q213782",
+   "category": "geography",
+   "text": "How long is the Putumayo River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1610,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Putumayo River at about 1,610 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,610 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Putumayo River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q213782"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-churchill-river-q3318",
+   "category": "geography",
+   "text": "How long is the Churchill River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1609,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Churchill River at about 1,609 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,609 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Churchill River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q3318"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-okavango-river-q188773",
+   "category": "geography",
+   "text": "How long is the Okavango River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1600,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Okavango River at about 1,600 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,600 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Okavango River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q188773"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-solimoes-q2844812",
+   "category": "geography",
+   "text": "How long is the Solimões river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1600,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Solimões river at about 1,600 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,600 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Solimões (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q2844812"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-tobol-q124653",
+   "category": "geography",
+   "text": "How long is the Tobol river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1591,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Tobol river at about 1,591 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,591 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Tobol (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q124653"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-alazeya-q82228",
+   "category": "geography",
+   "text": "How long is the Alazeya river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1590,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Alazeya river at about 1,590 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,590 km."
+   ],
+   "fact": "Laid along the equator it would stretch 4% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Alazeya (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q82228"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-apure-river-q853315",
+   "category": "geography",
+   "text": "How long is the Apure River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1580,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Apure River at about 1,580 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,580 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.9% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Apure River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q853315"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-ohio-river-q4915",
+   "category": "geography",
+   "text": "How long is the Ohio River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1579,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Ohio River at about 1,579 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,579 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.9% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Ohio River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q4915"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-kafue-river-q846063",
+   "category": "geography",
+   "text": "How long is the Kafue River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1577,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Kafue River at about 1,577 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,577 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.9% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Kafue River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q846063"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-nu-river-q21042927",
+   "category": "geography",
+   "text": "How long is the Nu River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1540,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Nu River at about 1,540 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,540 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Nu River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q21042927"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-han-river-q875573",
+   "category": "geography",
+   "text": "How long is the Han River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1532,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Han River at about 1,532 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,532 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Han River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q875573"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-magdalena-river-q191829",
+   "category": "geography",
+   "text": "How long is the Magdalena River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1528,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Magdalena River at about 1,528 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,528 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Magdalena River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q191829"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-desaguadero-river-q385342",
+   "category": "geography",
+   "text": "How long is the Desaguadero River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1515,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Desaguadero River at about 1,515 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,515 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.8% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Desaguadero River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q385342"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-sutlej-q171675",
+   "category": "geography",
+   "text": "How long is the Sutlej river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1500,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Sutlej river at about 1,500 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,500 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Sutlej (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q171675"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-oka-q172089",
+   "category": "geography",
+   "text": "How long is the Oka river, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1500,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Oka river at about 1,500 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,500 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Oka (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q172089"
+    }
+   ],
+   "dailyEligible": false
+  },
+  {
+   "slug": "river-volta-river-q192415",
+   "category": "geography",
+   "text": "How long is the Volta River, in kilometres?",
+   "difficulty": "hard",
+   "answer": 1500,
+   "unit": "km",
+   "kind": "fact",
+   "tolerance": 1.5,
+   "explanation": "Wikidata lists the Volta River at about 1,500 km. River lengths depend on which source stream you count, so figures differ between atlases.",
+   "reasoning": [
+    "Calibrate on rivers you know: the Nile is about 6,650 km, the Ganges about 2,500 km, the Thames about 350 km.",
+    "Estimate the straight-line distance from source to sea, then add 30–50% for meanders.",
+    "≈ 1,500 km."
+   ],
+   "fact": "Laid along the equator it would stretch 3.7% of the way around the Earth.",
+   "sources": [
+    {
+     "label": "Wikidata: Volta River (length, P2043)",
+     "url": "https://www.wikidata.org/wiki/Q192415"
+    }
+   ],
+   "dailyEligible": false
+  }
+ ]
+}
