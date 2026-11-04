@@ -74,6 +74,12 @@ Edit either source and run `npm run db:seed`. The seed validator checks slugs, r
 
 Visitors play immediately as **guests** (a server session). Signing up upgrades the guest in place. Logging in to an existing account merges the guest’s attempts, XP, streaks and badges into it. Leaderboards list registered players only.
 
+## Deploying
+
+Live: https://ballpark-9yhf.onrender.com (Render free plan, so the first visit after idle takes about a minute).
+
+`render.yaml` defines a Docker web service plus a Postgres database. Every push to `main` rebuilds and redeploys. On boot the container applies migrations and re-runs the idempotent question seed, so schema changes and new questions need no manual step. Keep `SESSION_SECRET` unchanged between deploys, or guests lose their progress.
+
 ## Built for later
 
 `question_packs` / `author_id` (community packs and user submissions), a mode → selector strategy in `questionService`, and the engine living in `shared/` are there so multiplayer rooms, tournaments and AI-generated questions can be added without reshaping the core.
