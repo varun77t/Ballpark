@@ -1,5 +1,9 @@
 # Ballpark — the unlimited estimation game
 
+### ▶ Play now: **https://ballpark-game.onrender.com**
+
+No signup needed. It runs on free hosting, so if the site has been idle the first load can take about a minute.
+
 > “Wait, I actually have no idea… let me take a guess.”
 
 Ballpark serves Fermi-style questions (*How many tennis balls fit in a 747?*). Each question gets **one guess**, and the answer, how far off you were (log scale), the reasoning and a surprising fact appear instantly. There's no daily cap on how many you play.
