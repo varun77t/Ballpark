@@ -1,7 +1,7 @@
 # Render Blueprint: one Docker web service plus a Postgres database.
 services:
   - type: web
-    name: ballpark
+    name: ballpark-game
     runtime: docker
     plan: free
     healthCheckPath: /api/health
