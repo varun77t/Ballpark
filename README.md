@@ -76,7 +76,7 @@ Visitors play immediately as **guests** (a server session). Signing up upgrades 
 
 ## Deploying
 
-Live: https://ballpark-9yhf.onrender.com (Render free plan, so the first visit after idle takes about a minute).
+Live: https://ballpark-game.onrender.com (Render free plan, so the first visit after idle takes about a minute).
 
 `render.yaml` defines a Docker web service plus a Postgres database. Every push to `main` rebuilds and redeploys. On boot the container applies migrations and re-runs the idempotent question seed, so schema changes and new questions need no manual step. Keep `SESSION_SECRET` unchanged between deploys, or guests lose their progress.
 
