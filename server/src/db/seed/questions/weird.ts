@@ -4,6 +4,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'tennis-balls-in-747',
     text: 'How many tennis balls could fit inside a Boeing 747?',
+    shape: 'fit',
     difficulty: 'hard',
     answer: 3.5e6,
     low: 2e6,
@@ -23,6 +24,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'count-to-a-billion',
     text: 'Counting one number per second without stopping, how many years would it take to count to one billion?',
+    shape: 'clock',
     difficulty: 'easy',
     answer: 31.7,
     unit: 'years',
@@ -35,6 +37,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'ping-pong-balls-school-bus',
     text: 'How many ping-pong balls would fit inside a school bus?',
+    shape: 'fit',
     difficulty: 'medium',
     answer: 760000,
     low: 500000,
@@ -49,6 +52,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'people-stacked-to-moon',
     text: 'How many people standing on each other’s heads would it take to reach the Moon?',
+    shape: 'scale',
     difficulty: 'medium',
     answer: 2.26e8,
     low: 2.1e8,
@@ -63,6 +67,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'lego-tower-to-iss',
     text: 'How many standard LEGO bricks stacked on top of each other would reach the International Space Station (~400 km up)?',
+    shape: 'scale',
     difficulty: 'medium',
     answer: 4.17e7,
     low: 3.9e7,
@@ -77,6 +82,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'piano-tuners-chicago',
     text: 'How many piano tuners work in Chicago? (The classic Fermi question.)',
+    shape: 'stock',
     difficulty: 'hard',
     answer: 150,
     low: 80,
@@ -98,6 +104,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'golf-balls-bathtub',
     text: 'How many golf balls would fit in a standard bathtub?',
+    shape: 'fit',
     difficulty: 'easy',
     answer: 3500,
     low: 2500,
@@ -112,6 +119,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'paper-stack-everest',
     text: 'How many sheets of printer paper stacked up would reach the height of Mount Everest?',
+    shape: 'scale',
     difficulty: 'medium',
     answer: 8.85e7,
     low: 8e7,
@@ -126,6 +134,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'paper-folded-42-times',
     text: 'If you could fold a 0.1 mm sheet of paper in half 42 times, how thick (in km) would it be?',
+    shape: 'scale',
     difficulty: 'insane',
     answer: 4.4e5,
     low: 3.9e5,
@@ -140,6 +149,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'english-wikipedia-words',
     text: 'How many words are in all the articles of the English Wikipedia combined?',
+    shape: 'stock',
     difficulty: 'hard',
     answer: 5e9,
     low: 4.7e9,
@@ -154,6 +164,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'sand-grains-on-beaches',
     text: 'How many grains of sand are there on all of Earth’s beaches?',
+    shape: 'stock',
     difficulty: 'insane',
     answer: 7.5e18,
     low: 1e18,
@@ -174,6 +185,7 @@ export const weird: SeedQuestion[] = [
   {
     slug: 'people-in-the-air',
     text: 'At any given moment, roughly how many people are airborne on passenger flights?',
+    shape: 'stock',
     difficulty: 'hard',
     answer: 1e6,
     low: 6e5,

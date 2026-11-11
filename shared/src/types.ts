@@ -10,6 +10,16 @@ export type Mode = (typeof MODES)[number];
 export type AttemptStatus = 'active' | 'solved' | 'revealed' | 'skipped';
 export type AnswerKind = 'fact' | 'estimate';
 
+/**
+ * What kind of number a question asks for. A good bank mixes these and keeps plain
+ * lookups (`trivia`) rare: the fun is reasoning toward a number nobody has memorised.
+ * - stock: how many exist right now · flow: how many per second/day/year
+ * - tally: how many ever, or over a lifetime · fit: how many X fit in Y
+ * - scale: laid end to end, stacked up, compared · clock: how long would it take
+ */
+export const SHAPES = ['stock', 'flow', 'tally', 'fit', 'scale', 'clock', 'trivia'] as const;
+export type QuestionShape = (typeof SHAPES)[number];
+
 export const DIFFICULTY_INFO: Record<Difficulty, { label: string; blurb: string }> = {
   easy: { label: 'Easy', blurb: 'Everyday objects and intuitive quantities.' },
   medium: { label: 'Medium', blurb: 'A few assumptions and some multiplication.' },
@@ -36,6 +46,9 @@ export interface QuestionPublic {
   id: number;
   slug: string;
   text: string;
+  /** Pins down exactly what is being counted ("Averaged over 2024, counting…"). */
+  qualifier: string | null;
+  shape: QuestionShape | null;
   category: string;
   difficulty: Difficulty;
   unit: string;

@@ -1,4 +1,4 @@
-import { DEFAULT_TOLERANCE, DIFFICULTIES } from '@ballpark/shared';
+import { DEFAULT_TOLERANCE, DIFFICULTIES, SHAPES } from '@ballpark/shared';
 import type { SeedCategory, SeedQuestion } from './types';
 
 /** Catches authoring mistakes before they reach the database. Returns a list of problems. */
@@ -15,6 +15,8 @@ export function validateSeed(categories: SeedCategory[], byCategory: Record<stri
       seen.add(q.slug);
       if (!/^[a-z0-9-]+$/.test(q.slug)) problems.push(`${where}: slug must be kebab-case`);
       if (!DIFFICULTIES.includes(q.difficulty)) problems.push(`${where}: bad difficulty`);
+      if (!SHAPES.includes(q.shape)) problems.push(`${where}: shape must be one of ${SHAPES.join(', ')}`);
+      if (q.qualifier !== undefined && (!q.qualifier.trim() || q.qualifier.includes('?'))) problems.push(`${where}: qualifier is fine print, not a question`);
       if (!(q.answer > 0) || !Number.isFinite(q.answer)) problems.push(`${where}: answer must be a positive number`);
       if ((q.low === undefined) !== (q.high === undefined)) problems.push(`${where}: low and high must be set together`);
       if (q.low !== undefined && q.high !== undefined && !(q.low > 0 && q.low <= q.answer && q.answer <= q.high)) {

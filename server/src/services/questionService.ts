@@ -9,6 +9,8 @@ export function toPublic(q: Question): QuestionPublic {
     id: q.id,
     slug: q.slug,
     text: q.text,
+    qualifier: q.qualifier,
+    shape: q.shape,
     category: q.categorySlug,
     difficulty: q.difficulty,
     unit: q.unit,
@@ -61,20 +63,17 @@ async function pick(tx: Tx, userId: string, filters: SelectFilters): Promise<Que
   if (filters.difficulty) conds.push(eq(questions.difficulty, filters.difficulty));
   if (filters.excludeIds?.length) conds.push(notInArray(questions.id, filters.excludeIds));
 
-  // Balance the deck: choose a category, then a pack within it (hand-written questions count
-  // as one pack), then the question. Otherwise thousands of generated questions would drown
-  // out every hand-written one and one template would repeat endlessly.
-  const bucket = sql`coalesce(${questions.packId}, 0)`;
+  // Balance the deck: choose a category first (each equally likely), then a question within it,
+  // so a large deck can't crowd out the small ones.
   const [choice] = await tx
-    .select({ category: questions.categorySlug, bucket: sql<number>`${bucket}` })
+    .select({ category: questions.categorySlug })
     .from(questions)
     .where(and(...conds))
-    .groupBy(questions.categorySlug, bucket)
-    // Weighted pick (key = u^(1/w)) with w = 1 / packs-in-category: every category gets equal weight.
-    .orderBy(sql`power(random(), count(*) over (partition by ${questions.categorySlug})) desc`)
+    .groupBy(questions.categorySlug)
+    .orderBy(sql`random()`)
     .limit(1);
   if (!choice) return null;
-  conds.push(eq(questions.categorySlug, choice.category), sql`${bucket} = ${choice.bucket}`);
+  conds.push(eq(questions.categorySlug, choice.category));
 
   const lastPlayed = sql<Date | null>`max(${attempts.startedAt})`;
   const [row] = await tx

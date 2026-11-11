@@ -25,6 +25,8 @@ export const attemptStatusEnum = pgEnum('attempt_status', ['active', 'solved', '
 export const answerKindEnum = pgEnum('answer_kind', ['fact', 'estimate']);
 export const directionEnum = pgEnum('guess_direction', ['high', 'low', 'exact']);
 export const runStatusEnum = pgEnum('run_status', ['active', 'ended']);
+// Mirrors SHAPES in @ballpark/shared.
+export const shapeEnum = pgEnum('question_shape', ['stock', 'flow', 'tally', 'fit', 'scale', 'clock', 'trivia']);
 
 const createdAt = () => timestamp('created_at', { withTimezone: true }).notNull().defaultNow();
 
@@ -65,6 +67,8 @@ export const questions = pgTable(
     id: serial('id').primaryKey(),
     slug: varchar('slug', { length: 96 }).notNull().unique(),
     text: text('text').notNull(),
+    qualifier: text('qualifier'),
+    shape: shapeEnum('shape'),
     categorySlug: varchar('category_slug', { length: 48 })
       .notNull()
       .references(() => categories.slug),

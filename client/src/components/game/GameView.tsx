@@ -198,6 +198,7 @@ export function GameView({
         ) : (
           <motion.div key={`ask-${attempt.id}`} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}>
             <h1 className="display mt-8 text-balance text-[clamp(1.75rem,4.8vw,2.6rem)] sm:mt-10">{q.text}</h1>
+            {q.qualifier && <p className="mt-3 max-w-[52ch] text-pretty text-[16px] font-semibold leading-snug opacity-90">{q.qualifier}</p>}
             <p className="mt-3 text-[14px] font-semibold opacity-85">
               One guess. A hit is {toleranceText(q.toleranceRatio)}.{' '}
               <Tooltip

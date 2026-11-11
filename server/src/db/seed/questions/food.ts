@@ -4,6 +4,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'coffee-cups-per-day',
     text: 'How many cups of coffee are consumed worldwide every day?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 2.25e9,
     low: 2e9,
@@ -22,6 +23,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'rice-grains-1kg',
     text: 'How many grains of rice are in a 1 kg bag?',
+    shape: 'fit',
     difficulty: 'easy',
     answer: 45000,
     low: 35000,
@@ -36,6 +38,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'nyc-pizzas-per-month',
     text: 'How many pizzas are ordered in New York City every month?',
+    shape: 'flow',
     difficulty: 'hard',
     answer: 6e6,
     low: 4e6,
@@ -55,6 +58,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'eggs-per-year-world',
     text: 'How many chicken eggs does the world produce each year?',
+    shape: 'flow',
     difficulty: 'hard',
     answer: 1.5e12,
     low: 1.3e12,
@@ -69,6 +73,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'water-drunk-lifetime',
     text: 'How many litres of water does an average person drink in a lifetime?',
+    shape: 'tally',
     difficulty: 'easy',
     answer: 53000,
     low: 40000,
@@ -83,6 +88,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'water-per-kg-beef',
     text: 'How many litres of water does it take to produce 1 kg of beef?',
+    shape: 'scale',
     difficulty: 'medium',
     answer: 15400,
     unit: 'litres',
@@ -99,6 +105,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'coca-cola-servings',
     text: 'How many servings of Coca-Cola Company drinks are consumed every day worldwide?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 2.2e9,
     unit: 'servings',
@@ -111,6 +118,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'mms-in-a-jar',
     text: 'How many M&M’s would fit in a 1-litre jar?',
+    shape: 'fit',
     difficulty: 'easy',
     answer: 1050,
     low: 850,
@@ -125,6 +133,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'hot-dogs-july-4',
     text: 'How many hot dogs do Americans eat on the Fourth of July?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 1.5e8,
     unit: 'hot dogs',
@@ -137,6 +146,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'chickens-slaughtered-year',
     text: 'How many chickens are slaughtered for meat worldwide every year?',
+    shape: 'flow',
     difficulty: 'hard',
     answer: 7.5e10,
     unit: 'chickens',
@@ -150,6 +160,7 @@ export const food: SeedQuestion[] = [
   {
     slug: 'cow-lifetime-milk',
     text: 'How many litres of milk does a typical dairy cow produce in her lifetime?',
+    shape: 'tally',
     difficulty: 'medium',
     answer: 30000,
     low: 20000,

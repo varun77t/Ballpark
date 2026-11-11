@@ -4,6 +4,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'ants-on-earth',
     text: 'How many ants are alive on Earth right now?',
+    shape: 'stock',
     difficulty: 'insane',
     answer: 2e16,
     unit: 'ants',
@@ -20,6 +21,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'trees-on-earth',
     text: 'How many trees are there on Earth?',
+    shape: 'stock',
     difficulty: 'hard',
     answer: 3.04e12,
     unit: 'trees',
@@ -32,6 +34,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'hummingbird-heart-rate',
     text: 'At its fastest, how many times per minute can a hummingbird’s heart beat?',
+    shape: 'trivia',
     difficulty: 'medium',
     answer: 1200,
     unit: 'beats per minute',
@@ -45,6 +48,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'birds-on-earth',
     text: 'How many individual wild birds are alive on Earth?',
+    shape: 'stock',
     difficulty: 'hard',
     answer: 5e10,
     unit: 'birds',
@@ -57,6 +61,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'queen-bee-eggs',
     text: 'At peak season, how many eggs can a honeybee queen lay in a single day?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 1750,
     low: 1500,
@@ -71,6 +76,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'blue-whale-heart',
     text: 'How many kilograms does a blue whale’s heart weigh?',
+    shape: 'trivia',
     difficulty: 'medium',
     answer: 180,
     unit: 'kg',
@@ -84,6 +90,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'flowers-per-kg-honey',
     text: 'How many flower visits does it take bees to make 1 kg of honey?',
+    shape: 'tally',
     difficulty: 'hard',
     answer: 4.4e6,
     low: 2e6,
@@ -98,6 +105,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'arctic-tern-lifetime-distance',
     text: 'How many kilometres does an Arctic tern fly over a 30-year lifetime of migrations?',
+    shape: 'tally',
     difficulty: 'hard',
     answer: 2.4e6,
     low: 1.5e6,
@@ -112,6 +120,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'beetle-species',
     text: 'How many species of beetle have scientists described so far?',
+    shape: 'stock',
     difficulty: 'medium',
     answer: 400000,
     unit: 'species',
@@ -124,6 +133,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'camel-drinking',
     text: 'How many litres of water can a very thirsty camel drink in one session?',
+    shape: 'trivia',
     difficulty: 'easy',
     answer: 150,
     low: 100,
@@ -138,6 +148,7 @@ export const animals: SeedQuestion[] = [
   {
     slug: 'lightning-per-second',
     text: 'On average, how many lightning flashes happen on Earth every second?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 44,
     unit: 'flashes',

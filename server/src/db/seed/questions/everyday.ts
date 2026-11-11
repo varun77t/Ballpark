@@ -4,6 +4,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'blinks-per-year',
     text: 'How many times does the average person blink in a year?',
+    shape: 'tally',
     difficulty: 'easy',
     answer: 5.5e6,
     low: 4e6,
@@ -18,6 +19,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'hours-asleep-lifetime',
     text: 'How many hours does the average person spend asleep over a lifetime?',
+    shape: 'tally',
     difficulty: 'easy',
     answer: 213000,
     low: 190000,
@@ -32,6 +34,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'breaths-per-day',
     text: 'How many breaths does a resting adult take in a day?',
+    shape: 'flow',
     difficulty: 'easy',
     answer: 22000,
     low: 17000,
@@ -46,6 +49,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'hairs-on-head',
     text: 'How many hairs are on a typical human head?',
+    shape: 'stock',
     difficulty: 'easy',
     answer: 100000,
     low: 90000,
@@ -60,6 +64,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'words-spoken-per-day',
     text: 'How many words does the average person speak in a day?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 16000,
     unit: 'words',
@@ -72,6 +77,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'shower-water',
     text: 'How many litres of water does a 10-minute shower use?',
+    shape: 'flow',
     difficulty: 'easy',
     answer: 95,
     low: 60,
@@ -86,6 +92,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'km-walked-lifetime',
     text: 'How many kilometres does the average person walk in their lifetime?',
+    shape: 'tally',
     difficulty: 'medium',
     answer: 140000,
     low: 100000,
@@ -100,6 +107,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'paper-sheets-per-tree',
     text: 'How many sheets of printer paper can be made from one tree?',
+    shape: 'scale',
     difficulty: 'medium',
     answer: 8333,
     low: 5000,
@@ -114,6 +122,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'air-breathed-per-day',
     text: 'How many litres of air does an adult breathe in a day?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 11000,
     low: 8000,
@@ -128,6 +137,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'food-eaten-lifetime',
     text: 'How many tonnes of food does an average person eat in a lifetime?',
+    shape: 'tally',
     difficulty: 'medium',
     answer: 40,
     low: 30,
@@ -142,6 +152,7 @@ export const everyday: SeedQuestion[] = [
   {
     slug: 'minutes-dreaming-lifetime',
     text: 'How many minutes will you spend dreaming (in REM sleep) over your lifetime?',
+    shape: 'tally',
     difficulty: 'hard',
     answer: 3.2e6,
     low: 2.4e6,

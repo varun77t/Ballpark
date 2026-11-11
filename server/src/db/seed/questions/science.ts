@@ -4,6 +4,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'apple-m1-transistors',
     text: 'How many transistors are packed onto Apple’s M1 chip — a slab of silicon smaller than a postage stamp?',
+    shape: 'stock',
     difficulty: 'medium',
     answer: 16e9,
     unit: 'transistors',
@@ -23,6 +24,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'heartbeats-per-year',
     text: 'How many times does a typical human heart beat in one year?',
+    shape: 'tally',
     difficulty: 'easy',
     answer: 3.7e7,
     low: 3.15e7,
@@ -41,6 +43,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'youtube-hours-per-minute',
     text: 'How many hours of video are uploaded to YouTube every single minute?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 500,
     unit: 'hours of video',
@@ -60,6 +63,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'neurons-in-brain',
     text: 'How many neurons are in the adult human brain?',
+    shape: 'stock',
     difficulty: 'hard',
     answer: 8.6e10,
     unit: 'neurons',
@@ -79,6 +83,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'blood-pumped-per-day',
     text: 'How many litres of blood does your heart pump in a single day?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 7200,
     low: 5800,
@@ -97,6 +102,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'sunlight-travel-time',
     text: 'How many seconds does sunlight take to reach Earth?',
+    shape: 'clock',
     difficulty: 'easy',
     answer: 499,
     unit: 'seconds',
@@ -109,6 +115,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'emails-per-day',
     text: 'How many emails are sent worldwide every day?',
+    shape: 'flow',
     difficulty: 'hard',
     answer: 3.47e11,
     unit: 'emails',
@@ -125,6 +132,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'atoms-in-salt-grain',
     text: 'How many atoms are in a single grain of table salt?',
+    shape: 'stock',
     difficulty: 'insane',
     answer: 1.2e18,
     low: 3e17,
@@ -146,6 +154,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'songs-on-1tb',
     text: 'How many 3-minute songs (MP3, 128 kbps) fit on a 1 terabyte drive?',
+    shape: 'fit',
     difficulty: 'medium',
     answer: 347000,
     low: 300000,
@@ -164,6 +173,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'dna-length-body',
     text: 'If you uncoiled all the DNA in one human body and laid it end to end, how many kilometres long would it be?',
+    shape: 'scale',
     difficulty: 'insane',
     answer: 1e10,
     low: 8e9,
@@ -187,6 +197,7 @@ export const science: SeedQuestion[] = [
   {
     slug: 'blood-vessel-length',
     text: 'Laid end to end, how many kilometres of blood vessels are in an adult human body?',
+    shape: 'scale',
     difficulty: 'medium',
     answer: 100000,
     low: 60000,

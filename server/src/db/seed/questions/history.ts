@@ -4,6 +4,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'great-pyramid-age',
     text: 'Roughly how many years ago was the Great Pyramid of Giza completed?',
+    shape: 'trivia',
     difficulty: 'easy',
     answer: 4585,
     low: 4500,
@@ -18,6 +19,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'black-death-europe-deaths',
     text: 'How many people died in Europe during the Black Death (1346–1353)?',
+    shape: 'tally',
     difficulty: 'medium',
     answer: 3.5e7,
     low: 2.5e7,
@@ -32,6 +34,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'great-pyramid-blocks',
     text: 'How many stone blocks make up the Great Pyramid of Giza?',
+    shape: 'stock',
     difficulty: 'medium',
     answer: 2.3e6,
     unit: 'blocks',
@@ -42,20 +45,9 @@ export const history: SeedQuestion[] = [
     sources: [{ label: 'Wikipedia: Great Pyramid of Giza', url: 'https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza' }],
   },
   {
-    slug: 'great-wall-length',
-    text: 'Including all its branches, how many kilometres long is the Great Wall of China?',
-    difficulty: 'medium',
-    answer: 21196,
-    unit: 'km',
-    kind: 'fact',
-    explanation: 'A 2012 national survey measured all sections built across dynasties at 21,196 km.',
-    reasoning: ['The Ming-era wall alone runs ~8,850 km.', 'Earlier dynasties built many parallel and overlapping walls.', 'Adding them up more than doubles the total.'],
-    fact: 'Despite the legend, the wall is not visible to the naked eye from the Moon.',
-    sources: [{ label: 'State Administration of Cultural Heritage (China), 2012' }, { label: 'Wikipedia: Great Wall of China', url: 'https://en.wikipedia.org/wiki/Great_Wall_of_China' }],
-  },
-  {
     slug: 'hundred-years-war-length',
     text: 'How many years did the Hundred Years’ War actually last?',
+    shape: 'trivia',
     difficulty: 'easy',
     answer: 116,
     unit: 'years',
@@ -68,6 +60,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'people-walked-on-moon',
     text: 'How many people have walked on the Moon?',
+    shape: 'trivia',
     difficulty: 'easy',
     answer: 12,
     unit: 'people',
@@ -80,6 +73,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'shakespeare-total-words',
     text: 'How many words did Shakespeare write in his complete works (plays and poems)?',
+    shape: 'tally',
     difficulty: 'hard',
     answer: 884647,
     unit: 'words',
@@ -93,6 +87,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'pyramid-to-cleopatra',
     text: 'How many years passed between the completion of the Great Pyramid and the death of Cleopatra?',
+    shape: 'trivia',
     difficulty: 'medium',
     answer: 2530,
     low: 2500,
@@ -107,6 +102,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'great-exhibition-visitors',
     text: 'How many visitors attended the Great Exhibition of 1851 in London’s Crystal Palace?',
+    shape: 'tally',
     difficulty: 'hard',
     answer: 6e6,
     unit: 'visitors',
@@ -119,6 +115,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'terracotta-army-soldiers',
     text: 'How many terracotta soldiers are estimated to be in China’s Terracotta Army?',
+    shape: 'stock',
     difficulty: 'medium',
     answer: 8000,
     unit: 'soldiers',
@@ -131,6 +128,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'roman-empire-duration',
     text: 'From Augustus (27 BC) to the fall of the Western Roman Empire (AD 476), how many years did the empire last?',
+    shape: 'trivia',
     difficulty: 'medium',
     answer: 502,
     unit: 'years',
@@ -143,6 +141,7 @@ export const history: SeedQuestion[] = [
   {
     slug: 'world-population-10000-bc',
     text: 'How many people were alive on Earth around 10,000 BC, at the dawn of farming?',
+    shape: 'stock',
     difficulty: 'insane',
     answer: 4e6,
     low: 1e6,

@@ -124,7 +124,10 @@ export const VerdictStage = forwardRef<HTMLDivElement, VerdictProps>(function Ve
   return (
     <div>
       <div className="flex items-start justify-between gap-4">
-        <p className="max-w-[36ch] text-balance text-[15px] font-semibold leading-snug opacity-90 sm:text-base">{q.text}</p>
+        <div className="max-w-[36ch]">
+          <p className="text-balance text-[15px] font-semibold leading-snug opacity-90 sm:text-base">{q.text}</p>
+          {q.qualifier && <p className="mt-1 text-[13px] font-semibold leading-snug opacity-75">{q.qualifier}</p>}
+        </div>
         <Stamp label={stamp} sub={stampSub} className="shrink-0" />
       </div>
 

@@ -14,7 +14,7 @@ Requirements: Node 20+, Docker.
 ```bash
 npm install
 cp server/.env.example server/.env    # then set SESSION_SECRET
-npm run db:setup                      # start Postgres (port 5434), migrate, seed ~1,580 questions
+npm run db:setup                      # start Postgres (port 5434), migrate, seed ~250 questions
 npm run dev                           # API on :3001, web on http://localhost:5180
 ```
 
@@ -27,7 +27,7 @@ npm run dev                           # API on :3001, web on http://localhost:51
 | `npm run build` / `npm start` | Production build; Express serves the built client from the same origin |
 | `npm run db:generate` | Generate a new Drizzle migration after editing `server/src/db/schema.ts` |
 | `npm run db:seed` | Re-run the idempotent question seed (upserts by slug) |
-| `npm run questions:build` | Rebuild the generated packs from World Bank + Wikidata (needs network, ~2 min) |
+| `npm run questions:build` | Rebuild the computed "how many fit" pack (no network needed) |
 
 
 

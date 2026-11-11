@@ -2,7 +2,7 @@ import { existsSync } from 'node:fs';
 import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { sql } from 'drizzle-orm';
+import { and, eq, isNull, notInArray, sql } from 'drizzle-orm';
 import { DEFAULT_TOLERANCE } from '@ballpark/shared';
 import { db, pool } from '../client';
 import { categories, questionPacks, questions, type NewQuestion } from '../schema';
@@ -27,6 +27,8 @@ function toRow(q: SeedQuestion, categorySlug: string, packId: number | null): Ne
   return {
     slug: q.slug,
     text: q.text,
+    qualifier: q.qualifier ?? null,
+    shape: q.shape,
     categorySlug,
     difficulty: q.difficulty,
     answer: q.answer,
@@ -47,8 +49,9 @@ function toRow(q: SeedQuestion, categorySlug: string, packId: number | null): Ne
 }
 
 /** Upserts categories, packs and questions by slug. Safe to run repeatedly. */
-export async function seed(): Promise<{ categories: number; questions: number; packs: number }> {
+export async function seed(): Promise<{ categories: number; questions: number; packs: number; retired: number }> {
   const packs = await loadGeneratedPacks();
+  let retired = 0;
 
   // Validate everything together so slugs stay unique across hand-written and generated questions.
   const byCategory: Record<string, SeedQuestion[]> = {};
@@ -93,6 +96,8 @@ export async function seed(): Promise<{ categories: number; questions: number; p
           target: questions.slug,
           set: {
             text: sql`excluded.text`,
+            qualifier: sql`excluded.qualifier`,
+            shape: sql`excluded.shape`,
             categorySlug: sql`excluded.category_slug`,
             difficulty: sql`excluded.difficulty`,
             answer: sql`excluded.answer`,
@@ -112,16 +117,25 @@ export async function seed(): Promise<{ categories: number; questions: number; p
           },
         });
     }
+
+    // Questions dropped from the seed leave play but stay in the table, since attempts reference them.
+    retired = (
+      await tx
+        .update(questions)
+        .set({ isActive: false })
+        .where(and(eq(questions.isActive, true), isNull(questions.authorId), notInArray(questions.slug, rows.map((r) => r.slug))))
+        .returning({ id: questions.id })
+    ).length;
   });
 
-  return { categories: CATEGORIES.length, questions: rows.length, packs: packs.length };
+  return { categories: CATEGORIES.length, questions: rows.length, packs: packs.length, retired };
 }
 
 const isMain = process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
 if (isMain) {
   seed()
     .then((r) => {
-      console.log(`✔ seeded ${r.categories} categories, ${r.packs} generated packs, ${r.questions} questions`);
+      console.log(`✔ seeded ${r.categories} categories, ${r.packs} generated packs, ${r.questions} questions${r.retired ? `; retired ${r.retired}` : ''}`);
       return pool.end();
     })
     .catch((err) => {

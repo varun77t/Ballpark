@@ -1,4 +1,4 @@
-import type { AnswerKind, Difficulty, SourceRef } from '@ballpark/shared';
+import type { AnswerKind, Difficulty, QuestionShape, SourceRef } from '@ballpark/shared';
 
 /**
  * Authoring format for a question. Files under ./questions export arrays of these;
@@ -9,10 +9,16 @@ import type { AnswerKind, Difficulty, SourceRef } from '@ballpark/shared';
  * - kind 'fact': the answer is a documented figure; `sources` must point to where it comes from.
  * - kind 'estimate': the answer is a Fermi estimate; every assumption must appear in `reasoning`,
  *   and `low`/`high` should bracket the defensible range. The UI labels these as estimates.
+ *
+ * Style: ask about something familiar that nobody has counted, so the player has to reason
+ * rather than recall. `reasoning` is the napkin path a player could have taken.
  */
 export interface SeedQuestion {
   slug: string;
   text: string;
+  /** Optional fine print that pins down what counts, shown under the question. */
+  qualifier?: string;
+  shape: QuestionShape;
   difficulty: Difficulty;
   answer: number;
   low?: number;

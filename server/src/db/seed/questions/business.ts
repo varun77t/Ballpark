@@ -4,6 +4,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'mcdonalds-restaurants',
     text: 'How many McDonald’s restaurants are there worldwide?',
+    shape: 'stock',
     difficulty: 'easy',
     answer: 43000,
     low: 41800,
@@ -18,6 +19,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'world-gdp',
     text: 'What is the total annual GDP of the entire world, in US dollars?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 1.1e14,
     low: 1.05e14,
@@ -32,6 +34,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'us-one-dollar-bills',
     text: 'How many US $1 bills are in circulation?',
+    shape: 'stock',
     difficulty: 'hard',
     answer: 1.49e10,
     unit: 'bills',
@@ -44,6 +47,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'penny-production-cost',
     text: 'In 2024, how many cents did it cost the US Mint to make and distribute one 1-cent penny?',
+    shape: 'trivia',
     difficulty: 'medium',
     answer: 3.69,
     unit: 'cents',
@@ -56,6 +60,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'million-at-minimum-wage',
     text: 'How many hours would you have to work at the US federal minimum wage ($7.25/hour) to earn $1 million?',
+    shape: 'clock',
     difficulty: 'easy',
     answer: 137931,
     unit: 'hours',
@@ -68,6 +73,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'us-new-business-applications',
     text: 'How many new business applications were filed in the United States in 2023?',
+    shape: 'flow',
     difficulty: 'hard',
     answer: 5.5e6,
     unit: 'applications',
@@ -81,6 +87,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'walmart-employees',
     text: 'How many people does Walmart employ worldwide?',
+    shape: 'stock',
     difficulty: 'medium',
     answer: 2.1e6,
     unit: 'employees',
@@ -93,6 +100,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'shanghai-port-teu',
     text: 'How many shipping containers (in TEU) did the Port of Shanghai handle in 2024?',
+    shape: 'flow',
     difficulty: 'hard',
     answer: 5.15e7,
     unit: 'TEU',
@@ -105,6 +113,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'million-in-briefcase',
     text: 'How many $100 bills fit in a standard briefcase?',
+    shape: 'fit',
     difficulty: 'easy',
     answer: 10000,
     low: 8000,
@@ -119,6 +128,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'app-downloads-2024',
     text: 'How many mobile apps were downloaded worldwide in 2024 (unique first-time installs)?',
+    shape: 'flow',
     difficulty: 'hard',
     answer: 1.36e11,
     unit: 'downloads',
@@ -132,6 +142,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'apple-revenue-per-second',
     text: 'In fiscal 2024, how many US dollars of revenue did Apple earn per second?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 12400,
     unit: 'USD per second',
@@ -145,6 +156,7 @@ export const business: SeedQuestion[] = [
   {
     slug: 'gold-ever-mined',
     text: 'How many tonnes of gold have been mined in all of human history?',
+    shape: 'tally',
     difficulty: 'hard',
     answer: 216000,
     low: 200000,

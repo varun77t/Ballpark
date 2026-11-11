@@ -15,6 +15,12 @@ async function answerOf(questionId: number): Promise<number> {
   return q.answer;
 }
 
+/** A guess just outside the hit zone: past the accepted range and its tolerance, but well within 10×. */
+async function nearMissOf(questionId: number): Promise<number> {
+  const [q] = await db.select().from(questions).where(eq(questions.id, questionId));
+  return (q.answerHigh ?? q.answer) * q.toleranceRatio * 1.5;
+}
+
 async function reset() {
   await pool.query('delete from daily_challenges; delete from users; delete from session');
 }
@@ -95,8 +101,7 @@ describe('guess flow (one shot per question)', () => {
   it('scores a near miss on closeness and a skip as zero', async () => {
     const a = agent();
     const { body: attempt } = await a.post('/api/play/start').send({}).expect(201);
-    const answer = await answerOf(attempt.question.id);
-    const res = (await a.post(`/api/attempts/${attempt.id}/guess`).send({ value: answer * 3 }).expect(200)).body as GuessResponse;
+    const res = (await a.post(`/api/attempts/${attempt.id}/guess`).send({ value: await nearMissOf(attempt.question.id) }).expect(200)).body as GuessResponse;
     expect(res.attempt.status).toBe('revealed');
     expect(res.attempt.result!.score.total).toBeGreaterThan(0);
 

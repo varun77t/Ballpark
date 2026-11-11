@@ -4,6 +4,7 @@ export const sports: SeedQuestion[] = [
   {
     slug: 'footballs-in-olympic-pool',
     text: 'How many footballs (size 5) would fit inside an Olympic swimming pool (50 m × 25 m × 2 m)?',
+    shape: 'fit',
     difficulty: 'medium',
     answer: 287000,
     low: 230000,
@@ -21,22 +22,9 @@ export const sports: SeedQuestion[] = [
     sources: [{ label: 'World Aquatics facilities rules (pool dimensions); Wikipedia: Random close pack', url: 'https://en.wikipedia.org/wiki/Random_close_pack' }],
   },
   {
-    slug: 'golf-ball-dimples',
-    text: 'How many dimples are on a typical golf ball?',
-    difficulty: 'easy',
-    answer: 336,
-    low: 300,
-    high: 500,
-    unit: 'dimples',
-    kind: 'fact',
-    explanation: 'Most golf balls have between 300 and 500 dimples; 336 is a classic count.',
-    reasoning: ['A ball is ~43 mm across, so its surface is ~57 cm².', 'Each dimple is ~3–4 mm wide.', '57 cm² ÷ ~0.15 cm² per dimple ≈ 380 — a few hundred.'],
-    fact: 'Dimples roughly double how far a ball flies by reducing drag from the turbulent wake.',
-    sources: [{ label: 'Wikipedia: Golf ball', url: 'https://en.wikipedia.org/wiki/Golf_ball' }],
-  },
-  {
     slug: 'world-cup-2022-final-viewers',
     text: 'According to FIFA, how many people watched the 2022 World Cup final (Argentina vs France)?',
+    shape: 'tally',
     difficulty: 'medium',
     answer: 1.5e9,
     unit: 'viewers',
@@ -47,22 +35,9 @@ export const sports: SeedQuestion[] = [
     sources: [{ label: 'FIFA: “One month on: 5 billion engaged with the FIFA World Cup Qatar 2022”', url: 'https://www.fifa.com/' }],
   },
   {
-    slug: 'tour-de-france-distance',
-    text: 'How many kilometres do riders cover in a Tour de France?',
-    difficulty: 'easy',
-    answer: 3400,
-    low: 3300,
-    high: 3500,
-    unit: 'km',
-    kind: 'fact',
-    explanation: 'Recent editions have been about 3,300–3,500 km over 21 stages.',
-    reasoning: ['21 stages over three weeks.', 'Flat stages ~180 km; time trials far shorter.', '21 × ~165 km ≈ 3,400 km.'],
-    fact: 'Riders do it at an average speed of around 40 km/h — including the mountains.',
-    sources: [{ label: 'Wikipedia: Tour de France', url: 'https://en.wikipedia.org/wiki/Tour_de_France' }],
-  },
-  {
     slug: 'marathon-steps',
     text: 'How many steps does a typical amateur runner take to finish a marathon?',
+    shape: 'tally',
     difficulty: 'easy',
     answer: 38000,
     low: 30000,
@@ -77,6 +52,7 @@ export const sports: SeedQuestion[] = [
   {
     slug: 'wimbledon-balls',
     text: 'How many tennis balls are used during the Wimbledon Championships each year?',
+    shape: 'flow',
     difficulty: 'medium',
     answer: 54250,
     unit: 'balls',
@@ -94,6 +70,7 @@ export const sports: SeedQuestion[] = [
   {
     slug: 'gold-in-olympic-gold-medal',
     text: 'How many grams of actual gold are in an Olympic gold medal?',
+    shape: 'trivia',
     difficulty: 'easy',
     answer: 6,
     unit: 'grams',
@@ -106,6 +83,7 @@ export const sports: SeedQuestion[] = [
   {
     slug: 'nathans-hot-dog-record',
     text: 'What is the record number of hot dogs (with buns) eaten in 10 minutes at the Nathan’s Hot Dog Eating Contest?',
+    shape: 'trivia',
     difficulty: 'easy',
     answer: 76,
     unit: 'hot dogs',
@@ -118,6 +96,7 @@ export const sports: SeedQuestion[] = [
   {
     slug: 'nba-distance-per-game',
     text: 'How many kilometres does a starting NBA player run during a typical game?',
+    shape: 'scale',
     difficulty: 'medium',
     answer: 4,
     low: 3.2,
@@ -132,6 +111,7 @@ export const sports: SeedQuestion[] = [
   {
     slug: 'tdf-mountain-stage-calories',
     text: 'How many kilocalories does a Tour de France rider burn on a big mountain stage?',
+    shape: 'flow',
     difficulty: 'hard',
     answer: 7000,
     low: 5000,
@@ -146,6 +126,7 @@ export const sports: SeedQuestion[] = [
   {
     slug: 'grass-blades-football-pitch',
     text: 'How many individual blades of grass are on a professional football pitch?',
+    shape: 'stock',
     difficulty: 'insane',
     answer: 7e8,
     low: 2e8,
@@ -165,6 +146,7 @@ export const sports: SeedQuestion[] = [
   {
     slug: 'london-marathon-total-distance',
     text: 'The 2024 London Marathon had a record ~53,900 finishers. How many kilometres did they run combined?',
+    shape: 'scale',
     difficulty: 'hard',
     answer: 2.27e6,
     low: 2.2e6,
